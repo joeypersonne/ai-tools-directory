@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T08:39:39+00:00",
+    "lastUpdated": "2026-07-05T08:53:07+00:00",
     "version": 1
   },
   "tools": [
@@ -2427,7 +2427,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 36,
-      "trendingScore": 69,
+      "trendingScore": 70,
       "source": "huggingface"
     },
     {
@@ -2637,7 +2637,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 28,
+      "trendingScore": 29,
       "source": "github"
     },
     {
@@ -2652,7 +2652,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "source": "github"
     },
     {
@@ -2667,7 +2667,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "source": "github"
     },
     {
@@ -2682,7 +2682,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "source": "huggingface"
     },
     {
@@ -2697,7 +2697,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 24,
+      "trendingScore": 25,
       "source": "huggingface"
     },
     {
@@ -2712,7 +2712,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 23,
+      "trendingScore": 24,
       "source": "github"
     },
     {
@@ -2727,7 +2727,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 23,
+      "trendingScore": 24,
       "source": "github"
     },
     {
@@ -2742,7 +2742,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 21,
+      "trendingScore": 22,
       "source": "github"
     },
     {
@@ -2757,7 +2757,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 16,
+      "trendingScore": 18,
       "source": "huggingface"
     },
     {
@@ -2772,7 +2772,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 16,
+      "trendingScore": 21,
       "source": "github"
     },
     {
@@ -2787,7 +2787,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 23,
-      "trendingScore": 12,
+      "trendingScore": 17,
       "source": "github"
     },
     {
@@ -2802,7 +2802,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 23,
-      "trendingScore": 12,
+      "trendingScore": 17,
       "source": "github"
     },
     {
@@ -2817,7 +2817,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 11,
+      "trendingScore": 16,
       "source": "github"
     },
     {
@@ -2832,7 +2832,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 10,
+      "trendingScore": 15,
       "source": "github"
     },
     {
@@ -2847,7 +2847,97 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
+      "trendingScore": 13,
+      "source": "github"
+    },
+    {
+      "id": "umadev",
+      "name": "umadev",
+      "url": "https://umadev.goder.ai",
+      "description": "UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 22,
       "trendingScore": 8,
+      "source": "github"
+    },
+    {
+      "id": "lemma-platform",
+      "name": "lemma-platform",
+      "url": "https://lemma.work",
+      "description": "The open-source workspace where humans and AI agents work as one team.",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 22,
+      "trendingScore": 8,
+      "source": "github"
+    },
+    {
+      "id": "agentpipe",
+      "name": "AgentPipe",
+      "url": "https://dwebagents.github.io/AgentPipe/",
+      "description": "High performance multithreaded task execution and optimization engine for agents and dweb apps",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 21,
+      "trendingScore": 7,
+      "source": "github"
+    },
+    {
+      "id": "polymarket-arbitrage-trading-bot",
+      "name": "polymarket-arbitrage-trading-bot",
+      "url": "https://t.me/0xRicker",
+      "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading b",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 21,
+      "trendingScore": 7,
+      "source": "github"
+    },
+    {
+      "id": "agterm",
+      "name": "agterm",
+      "url": "https://agterm.com",
+      "description": "Terminal for agentic flow",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 21,
+      "trendingScore": 7,
+      "source": "github"
+    },
+    {
+      "id": "ip-diagram-creator",
+      "name": "ip-diagram-creator",
+      "url": "https://github.com/haloshin/ip-diagram-creator",
+      "description": "个人 IP 图解创作器：用你的 IP 形象，生成专属内容图解。",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 21,
+      "trendingScore": 7,
       "source": "github"
     }
   ]
