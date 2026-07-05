@@ -38,6 +38,17 @@ gh repo create ai-tools-directory --public --source . --push
 
 Then on GitHub: **Settings → Pages → Source: "GitHub Actions"**. That's it — the site goes live at `https://<your-username>.github.io/ai-tools-directory/` and refreshes itself daily. You can trigger an update anytime from the **Actions** tab → "Daily update & deploy" → **Run workflow**.
 
+## SEO pages
+
+`build.py` generates a full static page structure, not just the homepage: one page per tool (`/tool/<id>/`), per category (`/category/<slug>/`), and per pricing tier (`/free/`, `/freemium/`, `/paid/`), plus `sitemap.xml`, `robots.txt`, an RSS feed (`feed.xml`), JSON-LD schema, and an `/advertise/` page. When you buy a custom domain, change `BASE_URL` at the top of `scripts/build.py` (one line) so canonicals and the sitemap point to it.
+
+## Monetization fields
+
+Two optional per-tool fields in `data/tools.json`:
+
+- `"featured": true` — pins the tool to the top of the homepage with a labeled **Featured** badge and highlighted card (sell this as a monthly placement).
+- `"affiliateUrl": "https://..."` — when set, all **Visit** buttons for that tool use this link (marked `rel="sponsored"`; a disclosure line is in the footer). The internal tool page and data keep the official URL.
+
 ## Customize
 
 - **Add/edit a tool by hand**: edit `data/tools.json` (fields: `name`, `url`, `description`, `category`, `pricing` = `free` | `freemium` | `paid`, `popularity` 0–100).

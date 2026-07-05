@@ -44,6 +44,14 @@ body {
   border: 1px solid var(--border); border-radius: 999px;
   padding: 6px 14px; background: var(--bg-soft);
 }
+.topbar-right { display: flex; align-items: center; gap: 12px; }
+.advertise-link {
+  font-size: 0.83rem; font-weight: 600; color: var(--text);
+  text-decoration: none; border: 1px solid var(--accent);
+  border-radius: 999px; padding: 6px 14px; white-space: nowrap;
+  transition: all 0.15s;
+}
+.advertise-link:hover { background: rgba(124, 108, 255, 0.15); }
 .pulse-dot {
   width: 8px; height: 8px; border-radius: 50%;
   background: var(--accent-2);
@@ -99,6 +107,7 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 .card {
+  position: relative;
   display: flex; flex-direction: column; gap: 10px;
   background: var(--card); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 18px;
@@ -106,6 +115,19 @@ body {
   transition: transform 0.15s, border-color 0.15s, background 0.15s;
 }
 .card:hover { transform: translateY(-3px); border-color: var(--accent); background: var(--card-hover); }
+.card.featured-card { border-color: var(--accent); background: linear-gradient(160deg, rgba(124, 108, 255, 0.12), var(--card) 55%); }
+/* whole card clicks through to the tool's page… */
+.card-main-link { color: inherit; text-decoration: none; }
+.card-main-link::after { content: ""; position: absolute; inset: 0; }
+/* …except the Visit button, which goes to the official site */
+.visit-btn {
+  position: relative; z-index: 2; margin-left: auto; flex-shrink: 0;
+  font-size: 0.8rem; font-weight: 600; color: var(--accent-2);
+  text-decoration: none; border: 1px solid var(--border);
+  border-radius: 999px; padding: 5px 12px; white-space: nowrap;
+  transition: all 0.15s;
+}
+.visit-btn:hover { border-color: var(--accent-2); background: rgba(45, 212, 191, 0.1); }
 .card-head { display: flex; align-items: center; gap: 12px; }
 .favicon {
   width: 36px; height: 36px; border-radius: 9px;
@@ -136,6 +158,7 @@ body {
 .badge.unknown { color: var(--text-dim); background: rgba(154, 161, 181, 0.1); }
 .badge.new-badge { color: #0b0d14; background: var(--accent-2); }
 .badge.hot-badge { color: #fff; background: #ef4444; }
+.badge.sponsored-badge { color: #fff; background: var(--accent); }
 .cat-tag { font-size: 0.75rem; color: var(--text-dim); border: 1px solid var(--border); padding: 3px 10px; border-radius: 999px; }
 
 .load-more {
@@ -148,9 +171,49 @@ body {
 
 .empty { color: var(--text-dim); text-align: center; padding: 60px 0; grid-column: 1 / -1; }
 
+/* ---------- inner pages (tool / category / advertise) ---------- */
+.page-main { padding: 34px 20px 10px; }
+.breadcrumb { font-size: 0.85rem; color: var(--text-dim); margin-bottom: 22px; }
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--accent); }
+.page-main h1 { font-size: clamp(1.5rem, 3.5vw, 2.2rem); letter-spacing: -0.02em; margin-bottom: 8px; }
+.page-sub { color: var(--text-dim); max-width: 640px; margin-bottom: 28px; }
+
+.tool-hero { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 30px; margin-bottom: 40px; }
+.tool-hero-head { display: flex; align-items: center; gap: 18px; margin-bottom: 16px; }
+.tool-hero-head .favicon, .tool-hero-head .favicon-fallback { width: 64px; height: 64px; border-radius: 14px; font-size: 1.6rem; }
+.tool-desc { color: var(--text-dim); font-size: 1.05rem; max-width: 720px; margin-bottom: 22px; }
+.cta-btn {
+  display: inline-block; padding: 13px 30px; border-radius: 999px;
+  background: var(--grad); color: #fff; font-weight: 700; text-decoration: none;
+  transition: opacity 0.15s, transform 0.15s;
+}
+.cta-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+.cta-btn.secondary { background: none; border: 1px solid var(--accent); color: var(--text); font-weight: 600; }
+.tool-facts { display: flex; gap: 34px; flex-wrap: wrap; margin-top: 26px; padding-top: 22px; border-top: 1px solid var(--border); }
+.tool-facts dt { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-dim); margin-bottom: 3px; }
+.tool-facts dd { font-weight: 600; }
+.section-title { font-size: 1.25rem; margin-bottom: 18px; }
+
+.pricing-cards { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(260px, 340px)); margin: 10px 0 26px; }
+.price-card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 26px; }
+.price-card.highlight { border-color: var(--accent); background: linear-gradient(160deg, rgba(124, 108, 255, 0.14), var(--card) 60%); }
+.price-card h3 { margin-bottom: 6px; }
+.price-card .price { font-size: 1.9rem; font-weight: 800; margin-bottom: 14px; }
+.price-card .price span { font-size: 0.9rem; font-weight: 500; color: var(--text-dim); }
+.price-card ul { list-style: none; margin-bottom: 20px; }
+.price-card li { padding: 5px 0 5px 24px; position: relative; color: var(--text-dim); font-size: 0.92rem; }
+.price-card li::before { content: "✓"; position: absolute; left: 0; color: var(--accent-2); font-weight: 700; }
+
 /* ---------- footer ---------- */
-.footer { border-top: 1px solid var(--border); margin-top: 60px; padding: 34px 0 44px; color: var(--text-dim); font-size: 0.9rem; text-align: center; }
-.footer .fineprint { font-size: 0.78rem; margin-top: 8px; opacity: 0.75; }
+.footer { border-top: 1px solid var(--border); margin-top: 60px; padding: 40px 0 44px; color: var(--text-dim); font-size: 0.9rem; }
+.footer-nav { display: flex; gap: 46px; flex-wrap: wrap; text-align: left; margin-bottom: 26px; }
+.footer-col h4 { color: var(--text); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 12px; }
+.footer-col a { display: block; color: var(--text-dim); text-decoration: none; font-size: 0.88rem; padding: 3px 0; }
+.footer-col a:hover { color: var(--accent); }
+.footer-col.wide { flex: 1; min-width: 260px; }
+.footer-cats { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); }
+.footer .fineprint { font-size: 0.78rem; opacity: 0.75; border-top: 1px solid var(--border); padding-top: 18px; }
 
 @media (max-width: 560px) {
   .updated-pill { display: none; }

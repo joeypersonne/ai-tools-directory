@@ -29,7 +29,10 @@
   function visibleTools() {
     let list = TOOLS.slice();
 
-    if (state.tab === "new") {
+    if (state.tab === "all") {
+      // featured (paid) placements pin to the top, always labeled
+      list.sort((a, b) => (b.featured === true) - (a.featured === true) || b.popularity - a.popularity || a.name.localeCompare(b.name));
+    } else if (state.tab === "new") {
       list = list.filter(isNew);
       list.sort((a, b) => b.dateAdded.localeCompare(a.dateAdded) || b.popularity - a.popularity);
     } else if (state.tab === "trending") {
@@ -37,8 +40,6 @@
       list.sort((a, b) => (b.trendingScore - a.trendingScore) || (b.popularity - a.popularity));
     } else if (state.tab === "popular") {
       list.sort((a, b) => b.popularity - a.popularity);
-    } else {
-      list.sort((a, b) => b.popularity - a.popularity || a.name.localeCompare(b.name));
     }
 
     if (state.category !== "all") list = list.filter((t) => t.category === state.category);
@@ -67,14 +68,20 @@
       : `<div class="favicon-fallback">${initial}</div>`;
 
     const badges = [];
+    if (t.featured) badges.push('<span class="badge sponsored-badge">Featured</span>');
     if (isNew(t)) badges.push('<span class="badge new-badge">New</span>');
     if (t.trendingScore >= 40) badges.push('<span class="badge hot-badge">Hot</span>');
     const pricingLabel = t.pricing === "unknown" ? "" : `<span class="badge ${t.pricing}">${t.pricing}</span>`;
 
-    return `<a class="card" href="${esc(t.url)}" target="_blank" rel="noopener nofollow" title="Visit ${esc(t.name)} — opens the official website">
+    // affiliate link when configured, official site otherwise — always disclosed via rel
+    const visitHref = esc(t.affiliateUrl || t.url);
+    const visitRel = t.affiliateUrl ? "sponsored noopener" : "noopener nofollow";
+
+    return `<div class="card${t.featured ? " featured-card" : ""}">
       <div class="card-head">
         ${favicon}
-        <div class="card-title"><span>${esc(t.name)}</span><span class="ext-arrow">↗</span></div>
+        <div class="card-title"><a class="card-main-link" href="tool/${esc(t.id)}/">${esc(t.name)}</a></div>
+        <a class="visit-btn" href="${visitHref}" target="_blank" rel="${visitRel}" title="Open the official ${esc(t.name)} website">Visit ↗</a>
       </div>
       <p class="card-desc">${esc(t.description)}</p>
       <div class="card-foot">
@@ -82,7 +89,7 @@
         ${badges.join("")}
         <span class="cat-tag">${esc(t.category)}</span>
       </div>
-    </a>`;
+    </div>`;
   }
 
   function render() {
