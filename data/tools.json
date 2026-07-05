@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T08:28:58+00:00",
+    "lastUpdated": "2026-07-05T08:33:42+00:00",
     "version": 1
   },
   "tools": [
@@ -2367,7 +2367,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2382,7 +2382,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2397,7 +2397,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2412,7 +2412,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2427,7 +2427,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 36,
-      "trendingScore": 64,
+      "trendingScore": 69,
       "source": "huggingface"
     },
     {
@@ -2442,7 +2442,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 34,
-      "trendingScore": 57,
+      "trendingScore": 62,
       "source": "huggingface"
     },
     {
@@ -2457,7 +2457,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 28,
-      "trendingScore": 35,
+      "trendingScore": 40,
       "source": "github"
     },
     {
@@ -2472,7 +2472,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 28,
-      "trendingScore": 33,
+      "trendingScore": 38,
       "source": "github"
     },
     {
@@ -2487,7 +2487,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 27,
-      "trendingScore": 29,
+      "trendingScore": 34,
       "source": "hackernews"
     },
     {
@@ -2502,7 +2502,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 27,
-      "trendingScore": 28,
+      "trendingScore": 33,
       "source": "github"
     },
     {
@@ -2517,7 +2517,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 27,
+      "trendingScore": 32,
       "source": "github"
     },
     {
@@ -2532,7 +2532,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 26,
+      "trendingScore": 31,
       "source": "hackernews"
     },
     {
@@ -2547,7 +2547,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 26,
+      "trendingScore": 31,
       "source": "hackernews"
     },
     {
@@ -2562,7 +2562,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 26,
+      "trendingScore": 31,
       "source": "github"
     },
     {
@@ -2577,8 +2577,188 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 24,
+      "trendingScore": 29,
       "source": "github"
+    },
+    {
+      "id": "openmythos",
+      "name": "Openmythos",
+      "url": "https://huggingface.co/spaces/build-small-hackathon/OpenMythos",
+      "description": "Trending Hugging Face Space by build-small-hackathon — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 32,
+      "trendingScore": 50,
+      "source": "huggingface"
+    },
+    {
+      "id": "krea-2",
+      "name": "Krea 2",
+      "url": "https://huggingface.co/spaces/krea/Krea-2",
+      "description": "Trending Hugging Face Space by krea — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 30,
+      "trendingScore": 40,
+      "source": "huggingface"
+    },
+    {
+      "id": "flux-2-klein-multi-lora",
+      "name": "Flux.2 Klein Multi Lora",
+      "url": "https://huggingface.co/spaces/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
+      "description": "Trending Hugging Face Space by M3st3rJ4k3l — try it live in the browser.",
+      "category": "Design",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 29,
+      "trendingScore": 38,
+      "source": "huggingface"
+    },
+    {
+      "id": "t3mp3st",
+      "name": "T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 25,
+      "trendingScore": 23,
+      "source": "github"
+    },
+    {
+      "id": "xquant-beginner",
+      "name": "xquant-beginner",
+      "url": "https://xingwudao.github.io/xquant-beginner/",
+      "description": "《XQuant：人人都是量化交易员》开源书稿",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 25,
+      "trendingScore": 20,
+      "source": "github"
+    },
+    {
+      "id": "fundamental-ava",
+      "name": "Fundamental-Ava",
+      "url": "https://fundamentalresearchlabs.com",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 25,
+      "trendingScore": 20,
+      "source": "github"
+    },
+    {
+      "id": "wanmanlove",
+      "name": "Wanmanlove",
+      "url": "https://huggingface.co/spaces/loveseries/wanmanlove",
+      "description": "Trending Hugging Face Space by loveseries — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 25,
+      "trendingScore": 20,
+      "source": "huggingface"
+    },
+    {
+      "id": "llm-cinema",
+      "name": "Llm Cinema",
+      "url": "https://huggingface.co/spaces/build-small-hackathon/llm-cinema",
+      "description": "Trending Hugging Face Space by build-small-hackathon — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 24,
+      "trendingScore": 19,
+      "source": "huggingface"
+    },
+    {
+      "id": "aipath",
+      "name": "aipath",
+      "url": "https://aipath.buynao.com",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "category": "Education",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 24,
+      "trendingScore": 18,
+      "source": "github"
+    },
+    {
+      "id": "nubase",
+      "name": "Nubase",
+      "url": "https://nubase.ai",
+      "description": "🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Stora",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 24,
+      "trendingScore": 18,
+      "source": "github"
+    },
+    {
+      "id": "perfectpixel-studio",
+      "name": "perfectpixel-studio",
+      "url": "https://github.com/gykim80/perfectpixel-studio",
+      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "category": "Video",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 24,
+      "trendingScore": 16,
+      "source": "github"
+    },
+    {
+      "id": "harness-optimization",
+      "name": "Harness Optimization",
+      "url": "https://huggingface.co/spaces/joelniklaus/harness-optimization",
+      "description": "Trending Hugging Face Space by joelniklaus — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 22,
+      "trendingScore": 11,
+      "source": "huggingface"
     }
   ]
 }
