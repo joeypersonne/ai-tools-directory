@@ -12,6 +12,7 @@ Generates:
 Run:  python scripts/build.py
 """
 
+import hashlib
 import html
 import json
 import os
@@ -29,6 +30,11 @@ SITE_NAME = "AI Radar"
 CONTACT_EMAIL = "joeypersonne@gmail.com"
 # Change this once when you buy a custom domain (or set the BASE_URL env var)
 BASE_URL = os.environ.get("BASE_URL", "https://joeypersonne.github.io/ai-tools-directory").rstrip("/")
+
+# Cache-buster appended to asset URLs; set from file contents in main().
+# GitHub Pages caches for 10 minutes, so without this a fresh deploy can pair
+# new HTML with a stale cached stylesheet.
+ASSET_V = "dev"
 
 PRICING_PAGES = {
     "free": ("Free AI Tools", "Completely free AI tools — no credit card, no trial limits."),
@@ -108,7 +114,7 @@ def shell(title, description, canonical_path, body, rel_prefix, extra_head=""):
   <meta property="og:description" content="{esc(description)}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{BASE_URL}{canonical_path}">
-  <link rel="stylesheet" href="{rel_prefix}styles.css">
+  <link rel="stylesheet" href="{rel_prefix}styles.css?v={ASSET_V}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>">
   {extra_head}
 </head>
@@ -243,6 +249,11 @@ def write(path, content):
 
 
 def main():
+    global ASSET_V
+    ASSET_V = hashlib.md5(
+        (SRC / "styles.css").read_bytes() + (SRC / "app.js").read_bytes()
+    ).hexdigest()[:8]
+
     data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     tools = sorted(data["tools"], key=lambda t: -t["popularity"])
     categories = sorted({t["category"] for t in tools})
@@ -267,6 +278,7 @@ def main():
     page = page.replace("__LAST_UPDATED__", nice_date)
     page = page.replace("__BASE_URL__", BASE_URL)
     page = page.replace("__FOOTER__", footer_html("", categories))
+    page = page.replace("__ASSET_V__", ASSET_V)
     write(DIST / "index.html", page)
 
     shutil.copy(SRC / "styles.css", DIST / "styles.css")
