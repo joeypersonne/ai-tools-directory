@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T04:24:15+00:00",
+    "lastUpdated": "2026-07-05T08:28:58+00:00",
     "version": 1
   },
   "tools": [
@@ -2142,7 +2142,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 43,
-      "trendingScore": 95,
+      "trendingScore": 100,
       "source": "github"
     },
     {
@@ -2157,7 +2157,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 43,
-      "trendingScore": 95,
+      "trendingScore": 100,
       "source": "github"
     },
     {
@@ -2172,7 +2172,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 38,
-      "trendingScore": 72,
+      "trendingScore": 79,
       "source": "github"
     },
     {
@@ -2187,7 +2187,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2202,7 +2202,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2217,7 +2217,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2232,7 +2232,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2247,7 +2247,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2262,7 +2262,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 70,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2277,7 +2277,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 36,
-      "trendingScore": 65,
+      "trendingScore": 70,
       "source": "hackernews"
     },
     {
@@ -2292,7 +2292,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 35,
-      "trendingScore": 60,
+      "trendingScore": 65,
       "source": "hackernews"
     },
     {
@@ -2307,7 +2307,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 33,
-      "trendingScore": 55,
+      "trendingScore": 60,
       "source": "hackernews"
     },
     {
@@ -2322,7 +2322,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 30,
-      "trendingScore": 41,
+      "trendingScore": 46,
       "source": "github"
     },
     {
@@ -2337,7 +2337,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 29,
-      "trendingScore": 38,
+      "trendingScore": 43,
       "source": "github"
     },
     {
@@ -2352,7 +2352,232 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 29,
-      "trendingScore": 36,
+      "trendingScore": 41,
+      "source": "github"
+    },
+    {
+      "id": "omni-image-editor",
+      "name": "Omni Image Editor",
+      "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
+      "description": "Trending Hugging Face Space by selfit-camera — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "trellis-2",
+      "name": "Trellis.2",
+      "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+      "description": "Trending Hugging Face Space by microsoft — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "magicquill",
+      "name": "Magicquill",
+      "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill",
+      "description": "Trending Hugging Face Space by AI4Editing — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "omni-video-factory",
+      "name": "Omni Video Factory",
+      "url": "https://huggingface.co/spaces/FrameAI4687/Omni-Video-Factory",
+      "description": "Trending Hugging Face Space by FrameAI4687 — try it live in the browser.",
+      "category": "Video",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "hf-realtime-voice",
+      "name": "Hf Realtime Voice",
+      "url": "https://huggingface.co/spaces/smolagents/hf-realtime-voice",
+      "description": "Trending Hugging Face Space by smolagents — try it live in the browser.",
+      "category": "Audio & Music",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 36,
+      "trendingScore": 64,
+      "source": "huggingface"
+    },
+    {
+      "id": "unlimited-ocr",
+      "name": "Unlimited Ocr",
+      "url": "https://huggingface.co/spaces/baidu/Unlimited-OCR",
+      "description": "Trending Hugging Face Space by baidu — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 34,
+      "trendingScore": 57,
+      "source": "huggingface"
+    },
+    {
+      "id": "fanbox",
+      "name": "fanbox",
+      "url": "https://github.com/alchaincyf/fanbox/releases/latest",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 28,
+      "trendingScore": 35,
+      "source": "github"
+    },
+    {
+      "id": "skillspec",
+      "name": "skillspec",
+      "url": "https://skillspec.sh",
+      "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 28,
+      "trendingScore": 33,
+      "source": "github"
+    },
+    {
+      "id": "quality-md",
+      "name": "QUALITY.md",
+      "url": "https://getquality.md",
+      "description": "Open format/specification, agent skill, and CLI.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 27,
+      "trendingScore": 29,
+      "source": "hackernews"
+    },
+    {
+      "id": "boo",
+      "name": "boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 27,
+      "trendingScore": 28,
+      "source": "github"
+    },
+    {
+      "id": "cliare",
+      "name": "cliare",
+      "url": "https://cliare.sh",
+      "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 26,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "cli-that-helps-ai-agents-avoid-vulnerable-dependencies",
+      "name": "CLI that helps AI agents avoid vulnerable dependencies",
+      "url": "https://github.com/clidey/deptrust",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 26,
+      "trendingScore": 26,
+      "source": "hackernews"
+    },
+    {
+      "id": "pmb",
+      "name": "PMB",
+      "url": "https://pmbai.dev",
+      "description": "Local memory for coding agents that shows if it is used.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 26,
+      "trendingScore": 26,
+      "source": "hackernews"
+    },
+    {
+      "id": "recall",
+      "name": "recall",
+      "url": "https://recallplugin.dev",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 26,
+      "trendingScore": 26,
+      "source": "github"
+    },
+    {
+      "id": "talos",
+      "name": "Talos",
+      "url": "https://usetalos.xyz",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 26,
+      "trendingScore": 24,
       "source": "github"
     }
   ]
