@@ -24,6 +24,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always start from the latest main, even on re-runs
 
       - uses: actions/setup-python@v5
         with:
@@ -41,9 +43,12 @@ jobs:
           git config user.email "actions@github.com"
           git add data/tools.json
           git diff --cached --quiet || git commit -m "chore: daily tools update $(date -u +%F)"
+          git pull --rebase origin main
           git push
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true   # turn on GitHub Pages automatically if needed
 
       - uses: actions/upload-pages-artifact@v3
         with:
