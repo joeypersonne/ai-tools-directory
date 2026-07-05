@@ -1,0 +1,2359 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-05T04:24:15+00:00",
+    "version": 1
+  },
+  "tools": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com",
+      "description": "OpenAI's conversational AI assistant for writing, coding, analysis, and image generation.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "gpt",
+        "openai"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 100,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "description": "Anthropic's AI assistant known for nuanced reasoning, long documents, and coding.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "anthropic",
+        "coding"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 97,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "url": "https://gemini.google.com",
+      "description": "Google's multimodal AI assistant integrated with Search, Workspace, and Android.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "google",
+        "multimodal"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 95,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com",
+      "description": "Microsoft's AI companion built into Windows, Edge, and Microsoft 365.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "microsoft",
+        "office"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 89,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "url": "https://chat.deepseek.com",
+      "description": "Powerful open-weight chatbot with strong reasoning and coding at no cost.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "open-source",
+        "reasoning"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-25",
+      "popularity": 88,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "url": "https://grok.com",
+      "description": "xAI's chatbot with real-time X (Twitter) knowledge and an irreverent streak.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "xai",
+        "realtime"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-20",
+      "popularity": 85,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI",
+      "url": "https://www.meta.ai",
+      "description": "Meta's free assistant powered by Llama, built into WhatsApp, Instagram, and the web.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "meta",
+        "llama"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-15",
+      "popularity": 80,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "le-chat",
+      "name": "Le Chat (Mistral)",
+      "url": "https://chat.mistral.ai",
+      "description": "Mistral AI's fast European chatbot with web search and document analysis.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "mistral",
+        "europe"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 78,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "poe",
+      "name": "Poe",
+      "url": "https://poe.com",
+      "description": "Quora's hub for chatting with many AI models — GPT, Claude, Gemini, and more in one app.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "multi-model",
+        "quora"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "url": "https://character.ai",
+      "description": "Chat with millions of user-created AI characters and personas.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "characters",
+        "roleplay",
+        "entertainment"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 82,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "pi",
+      "name": "Pi",
+      "url": "https://pi.ai",
+      "description": "Inflection's personal AI focused on supportive, emotionally intelligent conversation.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "personal",
+        "voice"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-20",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "qwen-chat",
+      "name": "Qwen Chat",
+      "url": "https://chat.qwen.ai",
+      "description": "Alibaba's free chatbot family with strong multilingual and coding ability.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "alibaba",
+        "open-source"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-03-05",
+      "popularity": 70,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "url": "https://www.kimi.com",
+      "description": "Moonshot AI's assistant with huge context windows and agentic research modes.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "assistant",
+        "long-context",
+        "moonshot"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-07-15",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "description": "The benchmark for artistic AI image generation, now with video and web editor.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "art",
+        "video"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-01-10",
+      "popularity": 94,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "adobe-firefly",
+      "name": "Adobe Firefly",
+      "url": "https://firefly.adobe.com",
+      "description": "Adobe's commercially safe image and video generation inside Creative Cloud.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "adobe",
+        "commercial"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 84,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "leonardo-ai",
+      "name": "Leonardo.Ai",
+      "url": "https://leonardo.ai",
+      "description": "Image generation platform with fine-tuned models for game assets, art, and marketing.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "game-assets",
+        "canva"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 81,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "url": "https://ideogram.ai",
+      "description": "Image generator famous for accurate text rendering inside images.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "typography",
+        "logos"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 79,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "stability-ai",
+      "name": "Stable Diffusion (Stability AI)",
+      "url": "https://stability.ai",
+      "description": "The leading open-source image model family you can run anywhere.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "open-source",
+        "local"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-10",
+      "popularity": 84,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "flux-bfl",
+      "name": "FLUX (Black Forest Labs)",
+      "url": "https://bfl.ai",
+      "description": "State-of-the-art image models from the original Stable Diffusion team.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "model",
+        "api"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-01",
+      "popularity": 77,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "krea",
+      "name": "Krea",
+      "url": "https://www.krea.ai",
+      "description": "Real-time AI canvas for generating and enhancing images and video.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "realtime",
+        "upscale"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 75,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "recraft",
+      "name": "Recraft",
+      "url": "https://www.recraft.ai",
+      "description": "AI design tool for vector art, icons, mockups, and brand-consistent images.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "vector",
+        "branding"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 73,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "bing-image-creator",
+      "name": "Bing Image Creator",
+      "url": "https://www.bing.com/images/create",
+      "description": "Free DALL·E-powered image generation from Microsoft.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "free",
+        "microsoft"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-20",
+      "popularity": 71,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "google-imagefx",
+      "name": "ImageFX (Google Labs)",
+      "url": "https://labs.google/fx",
+      "description": "Google Labs' free playground for Imagen-powered image generation.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "google",
+        "free"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-02-15",
+      "popularity": 69,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "playground",
+      "name": "Playground",
+      "url": "https://playground.com",
+      "description": "Consumer-friendly AI graphics editor for logos, posters, and product shots.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "design",
+        "templates"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 66,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "nightcafe",
+      "name": "NightCafe",
+      "url": "https://creator.nightcafe.studio",
+      "description": "Community-driven AI art platform with daily challenges and many models.",
+      "category": "Image Generation",
+      "tags": [
+        "images",
+        "art",
+        "community"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 62,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "url": "https://sora.com",
+      "description": "OpenAI's text-to-video app for cinematic clips and remixable social video.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "openai",
+        "text-to-video"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-10-01",
+      "popularity": 92,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "description": "Professional AI video suite — generation, motion brush, and editing tools.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "filmmaking",
+        "gen-4"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 89,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "google-flow",
+      "name": "Flow (Google Veo)",
+      "url": "https://labs.google/flow",
+      "description": "Google's AI filmmaking tool built on the Veo video model.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "google",
+        "veo"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-05-25",
+      "popularity": 86,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "kling",
+      "name": "Kling AI",
+      "url": "https://klingai.com",
+      "description": "Kuaishou's video generator known for realistic motion and long clips.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "text-to-video",
+        "china"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 82,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "luma-dream-machine",
+      "name": "Luma Dream Machine",
+      "url": "https://lumalabs.ai",
+      "description": "Fast, high-quality text-to-video and image-to-video from Luma Labs.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "text-to-video"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 79,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "url": "https://pika.art",
+      "description": "Playful AI video generation with creative effects like Pikaffects.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "effects",
+        "social"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 77,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "hailuo",
+      "name": "Hailuo AI",
+      "url": "https://hailuoai.video",
+      "description": "MiniMax's video generator with strong prompt adherence and camera control.",
+      "category": "Video",
+      "tags": [
+        "video",
+        "minimax"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-03-01",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "url": "https://www.heygen.com",
+      "description": "AI avatar videos with lifelike presenters, voice cloning, and translation.",
+      "category": "Video",
+      "tags": [
+        "avatars",
+        "translation",
+        "business"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 83,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "url": "https://www.synthesia.io",
+      "description": "Enterprise AI video platform: turn text into presenter-led videos in 140+ languages.",
+      "category": "Video",
+      "tags": [
+        "avatars",
+        "training",
+        "enterprise"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-01-15",
+      "popularity": 84,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "d-id",
+      "name": "D-ID",
+      "url": "https://www.d-id.com",
+      "description": "Talking avatar creation and real-time conversational video agents.",
+      "category": "Video",
+      "tags": [
+        "avatars",
+        "agents"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "capcut",
+      "name": "CapCut",
+      "url": "https://www.capcut.com",
+      "description": "Free video editor packed with AI features — captions, background removal, effects.",
+      "category": "Video",
+      "tags": [
+        "editing",
+        "captions",
+        "social"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 85,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "url": "https://www.descript.com",
+      "description": "Edit video and podcasts like a doc — AI transcription, overdub, and studio sound.",
+      "category": "Video",
+      "tags": [
+        "editing",
+        "podcast",
+        "transcription"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 79,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "opusclip",
+      "name": "OpusClip",
+      "url": "https://www.opus.pro",
+      "description": "Turn long videos into viral short clips automatically with AI curation.",
+      "category": "Video",
+      "tags": [
+        "shorts",
+        "repurposing",
+        "social"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "veed",
+      "name": "VEED",
+      "url": "https://www.veed.io",
+      "description": "Online video editor with AI avatars, subtitles, and text-to-video.",
+      "category": "Video",
+      "tags": [
+        "editing",
+        "subtitles",
+        "online"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 72,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "invideo",
+      "name": "InVideo",
+      "url": "https://invideo.io",
+      "description": "Generate complete narrated videos from a single text prompt.",
+      "category": "Video",
+      "tags": [
+        "text-to-video",
+        "marketing"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 70,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "description": "The leading AI voice platform — lifelike text-to-speech, cloning, and dubbing.",
+      "category": "Audio & Music",
+      "tags": [
+        "voice",
+        "tts",
+        "dubbing"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 91,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "url": "https://suno.com",
+      "description": "Create full songs with vocals and instruments from a text prompt.",
+      "category": "Audio & Music",
+      "tags": [
+        "music",
+        "songs",
+        "generation"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 87,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "udio",
+      "name": "Udio",
+      "url": "https://www.udio.com",
+      "description": "AI music creation with studio-grade quality and fine-grained control.",
+      "category": "Audio & Music",
+      "tags": [
+        "music",
+        "songs"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 76,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "murf",
+      "name": "Murf AI",
+      "url": "https://murf.ai",
+      "description": "Studio-quality AI voiceovers in 120+ voices for videos and presentations.",
+      "category": "Audio & Music",
+      "tags": [
+        "voice",
+        "voiceover",
+        "business"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-01",
+      "popularity": 69,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "adobe-podcast",
+      "name": "Adobe Podcast",
+      "url": "https://podcast.adobe.com",
+      "description": "Free AI speech enhancement that makes any recording sound studio-quality.",
+      "category": "Audio & Music",
+      "tags": [
+        "podcast",
+        "enhance",
+        "free"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-02-01",
+      "popularity": 66,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "krisp",
+      "name": "Krisp",
+      "url": "https://krisp.ai",
+      "description": "Real-time AI noise cancellation and meeting transcription for calls.",
+      "category": "Audio & Music",
+      "tags": [
+        "noise-cancellation",
+        "meetings"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "play-ht",
+      "name": "PlayAI (PlayHT)",
+      "url": "https://play.ht",
+      "description": "Ultra-realistic text-to-speech voices and voice agent APIs.",
+      "category": "Audio & Music",
+      "tags": [
+        "voice",
+        "tts",
+        "api"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "lalal-ai",
+      "name": "LALAL.AI",
+      "url": "https://www.lalal.ai",
+      "description": "High-quality stem splitting — extract vocals and instruments from any track.",
+      "category": "Audio & Music",
+      "tags": [
+        "stems",
+        "vocal-remover"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "aiva",
+      "name": "AIVA",
+      "url": "https://www.aiva.ai",
+      "description": "AI composer for emotional soundtracks in 250+ musical styles.",
+      "category": "Audio & Music",
+      "tags": [
+        "music",
+        "soundtrack",
+        "composer"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 60,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "url": "https://www.grammarly.com",
+      "description": "AI writing partner for grammar, tone, and full-draft generation everywhere you type.",
+      "category": "Writing & Content",
+      "tags": [
+        "grammar",
+        "writing",
+        "editing"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 90,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "quillbot",
+      "name": "QuillBot",
+      "url": "https://quillbot.com",
+      "description": "Paraphrasing, summarizing, and grammar tools loved by students.",
+      "category": "Writing & Content",
+      "tags": [
+        "paraphrase",
+        "summarize",
+        "students"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 83,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "url": "https://www.jasper.ai",
+      "description": "AI marketing copilot for on-brand content at scale.",
+      "category": "Writing & Content",
+      "tags": [
+        "marketing",
+        "copywriting",
+        "brand"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-01-15",
+      "popularity": 78,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "copy-ai",
+      "name": "Copy.ai",
+      "url": "https://www.copy.ai",
+      "description": "GTM AI platform automating sales and marketing content workflows.",
+      "category": "Writing & Content",
+      "tags": [
+        "copywriting",
+        "sales",
+        "workflows"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 73,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "writesonic",
+      "name": "Writesonic",
+      "url": "https://writesonic.com",
+      "description": "SEO-focused AI writer for articles that rank, with fact-checked citations.",
+      "category": "Writing & Content",
+      "tags": [
+        "seo",
+        "articles",
+        "marketing"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 70,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "rytr",
+      "name": "Rytr",
+      "url": "https://rytr.me",
+      "description": "Budget-friendly AI writing assistant for short-form content in 30+ languages.",
+      "category": "Writing & Content",
+      "tags": [
+        "copywriting",
+        "affordable"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "wordtune",
+      "name": "Wordtune",
+      "url": "https://www.wordtune.com",
+      "description": "Rewrite sentences to sound clearer, shorter, or more formal.",
+      "category": "Writing & Content",
+      "tags": [
+        "rewriting",
+        "tone"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 67,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "sudowrite",
+      "name": "Sudowrite",
+      "url": "https://www.sudowrite.com",
+      "description": "AI writing partner built specifically for fiction authors.",
+      "category": "Writing & Content",
+      "tags": [
+        "fiction",
+        "novels",
+        "creative"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "deepl",
+      "name": "DeepL",
+      "url": "https://www.deepl.com",
+      "description": "The most natural-sounding AI translator, plus DeepL Write for style.",
+      "category": "Writing & Content",
+      "tags": [
+        "translation",
+        "languages"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 85,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "description": "AI pair programmer with code completion, chat, and autonomous agent mode.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "ide",
+        "github"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 94,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "description": "The AI-first code editor — chat with your codebase and let agents write code.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "editor",
+        "agent"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 93,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "url": "https://claude.com/claude-code",
+      "description": "Anthropic's agentic coding tool that works in your terminal, IDE, and browser.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "agent",
+        "terminal"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-03-01",
+      "popularity": 90,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "replit",
+      "name": "Replit",
+      "url": "https://replit.com",
+      "description": "Build and deploy full apps from natural language with Replit Agent.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "no-code",
+        "deployment"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 84,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "url": "https://lovable.dev",
+      "description": "Chat your way to a full-stack web app — Europe's fastest-growing AI builder.",
+      "category": "Coding & Development",
+      "tags": [
+        "app-builder",
+        "no-code",
+        "fullstack"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 83,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "bolt-new",
+      "name": "Bolt",
+      "url": "https://bolt.new",
+      "description": "Prompt, run, edit, and deploy full-stack web and mobile apps in the browser.",
+      "category": "Coding & Development",
+      "tags": [
+        "app-builder",
+        "no-code",
+        "stackblitz"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 80,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "v0",
+      "name": "v0 by Vercel",
+      "url": "https://v0.app",
+      "description": "Generate React UIs and full apps from text and images, deploy to Vercel.",
+      "category": "Coding & Development",
+      "tags": [
+        "ui",
+        "react",
+        "app-builder"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 79,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "url": "https://windsurf.com",
+      "description": "Agentic IDE with Cascade — AI that deeply understands your codebase.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 77,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "openai-codex",
+      "name": "OpenAI Codex",
+      "url": "https://openai.com/codex",
+      "description": "OpenAI's cloud software engineering agent that writes and reviews code.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "agent",
+        "openai"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-05-20",
+      "popularity": 81,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "base44",
+      "name": "Base44",
+      "url": "https://base44.com",
+      "description": "Build fully functional apps with built-in database, auth, and hosting — no code.",
+      "category": "Coding & Development",
+      "tags": [
+        "app-builder",
+        "no-code",
+        "wix"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-03-01",
+      "popularity": 70,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "tabnine",
+      "name": "Tabnine",
+      "url": "https://www.tabnine.com",
+      "description": "Privacy-first AI code assistant that can run on-prem and air-gapped.",
+      "category": "Coding & Development",
+      "tags": [
+        "coding",
+        "privacy",
+        "enterprise"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "sourcegraph",
+      "name": "Sourcegraph",
+      "url": "https://sourcegraph.com",
+      "description": "Code search and Amp agents for understanding massive codebases.",
+      "category": "Coding & Development",
+      "tags": [
+        "code-search",
+        "agent",
+        "enterprise"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 66,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co",
+      "description": "The home of open-source AI — models, datasets, and instant demo Spaces.",
+      "category": "Coding & Development",
+      "tags": [
+        "models",
+        "open-source",
+        "community"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 88,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "url": "https://ollama.com",
+      "description": "Run Llama, DeepSeek, Gemma, and other LLMs locally with one command.",
+      "category": "Coding & Development",
+      "tags": [
+        "local",
+        "open-source",
+        "llm"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-15",
+      "popularity": 80,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "lm-studio",
+      "name": "LM Studio",
+      "url": "https://lmstudio.ai",
+      "description": "Desktop app for discovering and running local LLMs with a friendly UI.",
+      "category": "Coding & Development",
+      "tags": [
+        "local",
+        "desktop",
+        "llm"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-02-01",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "notion-ai",
+      "name": "Notion AI",
+      "url": "https://www.notion.com",
+      "description": "AI meeting notes, enterprise search, and writing help inside your workspace.",
+      "category": "Productivity",
+      "tags": [
+        "notes",
+        "workspace",
+        "search"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 86,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "description": "Generate beautiful presentations, docs, and websites from a prompt.",
+      "category": "Productivity",
+      "tags": [
+        "presentations",
+        "slides",
+        "websites"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 82,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "otter-ai",
+      "name": "Otter.ai",
+      "url": "https://otter.ai",
+      "description": "AI meeting agent that records, transcribes, and answers questions live.",
+      "category": "Productivity",
+      "tags": [
+        "meetings",
+        "transcription",
+        "notes"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 79,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "fireflies",
+      "name": "Fireflies.ai",
+      "url": "https://fireflies.ai",
+      "description": "Automatic meeting notes, summaries, and action items across all platforms.",
+      "category": "Productivity",
+      "tags": [
+        "meetings",
+        "notes",
+        "crm"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 75,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom",
+      "url": "https://fathom.video",
+      "description": "Free AI notetaker that summarizes Zoom, Meet, and Teams calls instantly.",
+      "category": "Productivity",
+      "tags": [
+        "meetings",
+        "notes",
+        "free"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 72,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "url": "https://www.granola.ai",
+      "description": "The AI notepad for people in back-to-back meetings — no bots join your calls.",
+      "category": "Productivity",
+      "tags": [
+        "meetings",
+        "notes",
+        "mac"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-03-01",
+      "popularity": 71,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "url": "https://www.usemotion.com",
+      "description": "AI project manager that auto-schedules your tasks and calendar.",
+      "category": "Productivity",
+      "tags": [
+        "calendar",
+        "tasks",
+        "scheduling"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-01",
+      "popularity": 67,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "reclaim",
+      "name": "Reclaim.ai",
+      "url": "https://reclaim.ai",
+      "description": "Smart calendar that defends focus time and auto-schedules habits.",
+      "category": "Productivity",
+      "tags": [
+        "calendar",
+        "focus",
+        "scheduling"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "url": "https://superhuman.com",
+      "description": "The fastest email experience, now with AI triage and instant replies.",
+      "category": "Productivity",
+      "tags": [
+        "email",
+        "speed"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "beautiful-ai",
+      "name": "Beautiful.ai",
+      "url": "https://www.beautiful.ai",
+      "description": "Presentations that design themselves as you add content.",
+      "category": "Productivity",
+      "tags": [
+        "presentations",
+        "slides",
+        "design"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-15",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "url": "https://zapier.com",
+      "description": "Connect 8,000+ apps and build AI agents and automated workflows without code.",
+      "category": "Agents & Automation",
+      "tags": [
+        "automation",
+        "integrations",
+        "agents"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 85,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "url": "https://n8n.io",
+      "description": "Open-source workflow automation with native AI agent nodes.",
+      "category": "Agents & Automation",
+      "tags": [
+        "automation",
+        "open-source",
+        "self-hosted"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 82,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "make",
+      "name": "Make",
+      "url": "https://www.make.com",
+      "description": "Visual automation platform for complex multi-app scenarios and AI agents.",
+      "category": "Agents & Automation",
+      "tags": [
+        "automation",
+        "visual",
+        "integrations"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "url": "https://manus.im",
+      "description": "General AI agent that autonomously researches, codes, and completes tasks.",
+      "category": "Agents & Automation",
+      "tags": [
+        "agent",
+        "autonomous",
+        "research"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-03-10",
+      "popularity": 78,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "url": "https://devin.ai",
+      "description": "Cognition's autonomous AI software engineer that ships real PRs.",
+      "category": "Agents & Automation",
+      "tags": [
+        "agent",
+        "coding",
+        "autonomous"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-01-20",
+      "popularity": 74,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "lindy",
+      "name": "Lindy",
+      "url": "https://www.lindy.ai",
+      "description": "Build AI employees for email, sales, and support in minutes.",
+      "category": "Agents & Automation",
+      "tags": [
+        "agent",
+        "email",
+        "sales"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 67,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "url": "https://www.langchain.com",
+      "description": "The most popular framework for building LLM apps and agents.",
+      "category": "Agents & Automation",
+      "tags": [
+        "framework",
+        "developers",
+        "open-source"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 75,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "crewai",
+      "name": "CrewAI",
+      "url": "https://www.crewai.com",
+      "description": "Framework and platform for orchestrating teams of collaborating AI agents.",
+      "category": "Agents & Automation",
+      "tags": [
+        "agents",
+        "multi-agent",
+        "framework"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 65,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "relevance-ai",
+      "name": "Relevance AI",
+      "url": "https://relevanceai.com",
+      "description": "Build an AI workforce of agents for sales, support, and operations — no code.",
+      "category": "Agents & Automation",
+      "tags": [
+        "agents",
+        "workforce",
+        "no-code"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 62,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "description": "AI answer engine with cited sources, deep research, and the Comet browser.",
+      "category": "Search & Research",
+      "tags": [
+        "search",
+        "citations",
+        "research"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 92,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "notebooklm",
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com",
+      "description": "Google's research assistant — upload sources, get grounded answers and Audio Overviews.",
+      "category": "Search & Research",
+      "tags": [
+        "research",
+        "notes",
+        "podcast"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-01-15",
+      "popularity": 87,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "elicit",
+      "name": "Elicit",
+      "url": "https://elicit.com",
+      "description": "Analyze 125M+ research papers — extract data and find themes in minutes.",
+      "category": "Search & Research",
+      "tags": [
+        "papers",
+        "academic",
+        "systematic-review"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 69,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "url": "https://consensus.app",
+      "description": "AI search over peer-reviewed science with evidence-based answers.",
+      "category": "Search & Research",
+      "tags": [
+        "papers",
+        "science",
+        "evidence"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 66,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "scispace",
+      "name": "SciSpace",
+      "url": "https://scispace.com",
+      "description": "Chat with PDFs and explore literature with an AI research copilot.",
+      "category": "Search & Research",
+      "tags": [
+        "papers",
+        "pdf",
+        "academic"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 62,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "phind",
+      "name": "Phind",
+      "url": "https://www.phind.com",
+      "description": "AI answer engine optimized for developers and technical questions.",
+      "category": "Search & Research",
+      "tags": [
+        "search",
+        "developers",
+        "coding"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "exa",
+      "name": "Exa",
+      "url": "https://exa.ai",
+      "description": "Search API built for AI — semantic web search for agents and apps.",
+      "category": "Search & Research",
+      "tags": [
+        "search",
+        "api",
+        "developers"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 60,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "you-com",
+      "name": "You.com",
+      "url": "https://you.com",
+      "description": "Customizable AI assistant and search with access to multiple frontier models.",
+      "category": "Search & Research",
+      "tags": [
+        "search",
+        "assistant",
+        "multi-model"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 59,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "canva",
+      "name": "Canva AI",
+      "url": "https://www.canva.com",
+      "description": "Magic Studio brings AI design, image, video, and copy tools to everyone.",
+      "category": "Design",
+      "tags": [
+        "design",
+        "templates",
+        "magic-studio"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-10",
+      "popularity": 90,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "figma-ai",
+      "name": "Figma AI",
+      "url": "https://www.figma.com",
+      "description": "AI features across Figma — Make designs, generate mockups, and prototype faster.",
+      "category": "Design",
+      "tags": [
+        "design",
+        "ui",
+        "prototyping"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-15",
+      "popularity": 84,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "framer",
+      "name": "Framer",
+      "url": "https://www.framer.com",
+      "description": "Design and publish stunning websites with AI generation built in.",
+      "category": "Design",
+      "tags": [
+        "websites",
+        "no-code",
+        "design"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-01-20",
+      "popularity": 77,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "photoroom",
+      "name": "Photoroom",
+      "url": "https://www.photoroom.com",
+      "description": "AI photo editing for product shots — background removal and generation.",
+      "category": "Design",
+      "tags": [
+        "photos",
+        "ecommerce",
+        "background"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 71,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "remove-bg",
+      "name": "remove.bg",
+      "url": "https://www.remove.bg",
+      "description": "Remove image backgrounds automatically in seconds.",
+      "category": "Design",
+      "tags": [
+        "background",
+        "photos",
+        "quick"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 73,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "uizard",
+      "name": "Uizard",
+      "url": "https://uizard.io",
+      "description": "Turn sketches and screenshots into editable UI designs with AI.",
+      "category": "Design",
+      "tags": [
+        "ui",
+        "mockups",
+        "prototyping"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "looka",
+      "name": "Looka",
+      "url": "https://looka.com",
+      "description": "Design a logo and complete brand kit with AI in minutes.",
+      "category": "Design",
+      "tags": [
+        "logo",
+        "branding"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 60,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "stitch",
+      "name": "Stitch (Google)",
+      "url": "https://stitch.withgoogle.com",
+      "description": "Google's AI tool that turns prompts into UI designs and frontend code.",
+      "category": "Design",
+      "tags": [
+        "ui",
+        "google",
+        "code"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-05-25",
+      "popularity": 63,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "surfer",
+      "name": "Surfer",
+      "url": "https://surferseo.com",
+      "description": "AI-driven SEO platform for content that ranks on Google.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "seo",
+        "content",
+        "optimization"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-01-20",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "hubspot-breeze",
+      "name": "HubSpot Breeze",
+      "url": "https://www.hubspot.com/products/artificial-intelligence",
+      "description": "AI agents and copilots embedded across HubSpot's CRM platform.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "crm",
+        "agents",
+        "marketing"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 69,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "adcreative",
+      "name": "AdCreative.ai",
+      "url": "https://www.adcreative.ai",
+      "description": "Generate conversion-optimized ad creatives and banners at scale.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "ads",
+        "creatives",
+        "banners"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "url": "https://www.clay.com",
+      "description": "AI-powered prospecting — enrich leads from 100+ sources and personalize outreach.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "sales",
+        "prospecting",
+        "enrichment"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 70,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo.io",
+      "url": "https://www.apollo.io",
+      "description": "Sales intelligence platform with AI research, scoring, and outreach.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "sales",
+        "leads",
+        "outreach"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 67,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "url": "https://www.gong.io",
+      "description": "Revenue AI that analyzes customer calls and forecasts deals.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "sales",
+        "calls",
+        "revenue"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-10",
+      "popularity": 68,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "intercom-fin",
+      "name": "Fin by Intercom",
+      "url": "https://fin.ai",
+      "description": "The #1 AI agent for customer service, resolving most support tickets.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "support",
+        "agent",
+        "customer-service"
+      ],
+      "pricing": "paid",
+      "dateAdded": "2025-02-15",
+      "popularity": 66,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "julius",
+      "name": "Julius AI",
+      "url": "https://julius.ai",
+      "description": "Chat with your data — analysis, visualization, and stats from files.",
+      "category": "Data & Analytics",
+      "tags": [
+        "data",
+        "analysis",
+        "charts"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 63,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "hex",
+      "name": "Hex",
+      "url": "https://hex.tech",
+      "description": "Collaborative data workspace with AI-assisted notebooks and agents.",
+      "category": "Data & Analytics",
+      "tags": [
+        "data",
+        "notebooks",
+        "sql"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 61,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "rows",
+      "name": "Rows",
+      "url": "https://rows.com",
+      "description": "The spreadsheet with AI built in — analyze, summarize, and transform data.",
+      "category": "Data & Analytics",
+      "tags": [
+        "spreadsheet",
+        "analysis"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 58,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "khanmigo",
+      "name": "Khanmigo",
+      "url": "https://www.khanmigo.ai",
+      "description": "Khan Academy's AI tutor for students and teaching assistant for teachers.",
+      "category": "Education",
+      "tags": [
+        "tutoring",
+        "students",
+        "teachers"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 65,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo Max",
+      "url": "https://www.duolingo.com",
+      "description": "Language learning supercharged with AI conversation and video calls.",
+      "category": "Education",
+      "tags": [
+        "languages",
+        "learning"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-01",
+      "popularity": 77,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "photomath",
+      "name": "Photomath",
+      "url": "https://photomath.com",
+      "description": "Scan any math problem and get step-by-step explanations.",
+      "category": "Education",
+      "tags": [
+        "math",
+        "homework",
+        "mobile"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 69,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "quizlet",
+      "name": "Quizlet",
+      "url": "https://quizlet.com",
+      "description": "AI-powered flashcards, practice tests, and a magic study tutor.",
+      "category": "Education",
+      "tags": [
+        "flashcards",
+        "studying"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 67,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "spline",
+      "name": "Spline",
+      "url": "https://spline.design",
+      "description": "Design interactive 3D for the web with AI generation built in.",
+      "category": "3D & Avatars",
+      "tags": [
+        "3d",
+        "web",
+        "design"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-10",
+      "popularity": 64,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "meshy",
+      "name": "Meshy",
+      "url": "https://www.meshy.ai",
+      "description": "Generate 3D models and textures from text or images in minutes.",
+      "category": "3D & Avatars",
+      "tags": [
+        "3d",
+        "models",
+        "game-dev"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-02-15",
+      "popularity": 62,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "tripo",
+      "name": "Tripo",
+      "url": "https://www.tripo3d.ai",
+      "description": "Fast text-to-3D and image-to-3D generation for creators and developers.",
+      "category": "3D & Avatars",
+      "tags": [
+        "3d",
+        "generation"
+      ],
+      "pricing": "freemium",
+      "dateAdded": "2025-03-01",
+      "popularity": 58,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "ready-player-me",
+      "name": "Ready Player Me",
+      "url": "https://readyplayer.me",
+      "description": "Cross-platform avatar system used by thousands of apps and games.",
+      "category": "3D & Avatars",
+      "tags": [
+        "avatars",
+        "games",
+        "metaverse"
+      ],
+      "pricing": "free",
+      "dateAdded": "2025-03-01",
+      "popularity": 57,
+      "trendingScore": 0,
+      "source": "seed"
+    },
+    {
+      "id": "mimo-code",
+      "name": "MiMo-Code",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "description": "MiMo Code: Where Models and Agents Co-Evolve",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 43,
+      "trendingScore": 95,
+      "source": "github"
+    },
+    {
+      "id": "omnigent",
+      "name": "omnigent",
+      "url": "https://omnigent.ai",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies a",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 43,
+      "trendingScore": 95,
+      "source": "github"
+    },
+    {
+      "id": "testsprite-cli",
+      "name": "testsprite-cli",
+      "url": "https://www.testsprite.com",
+      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 38,
+      "trendingScore": 72,
+      "source": "github"
+    },
+    {
+      "id": "pro-realism-edit-studio",
+      "name": "Pro Realism Edit Studio",
+      "url": "https://huggingface.co/spaces/Sneak-Moose/Pro-Realism-Edit-Studio",
+      "description": "Trending Hugging Face Space by Sneak-Moose — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "wan555",
+      "name": "Wan555",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/wan555",
+      "description": "Trending Hugging Face Space by kulkas2pintu — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "protectbirds",
+      "name": "Protectbirds",
+      "url": "https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds",
+      "description": "Trending Hugging Face Space by AimeeBingmouQu — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "locateanything",
+      "name": "Locateanything",
+      "url": "https://huggingface.co/spaces/nvidia/LocateAnything",
+      "description": "Trending Hugging Face Space by nvidia — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "z-image-turbo",
+      "name": "Z Image Turbo",
+      "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
+      "description": "Trending Hugging Face Space by mrfakename — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "qwen-image-edit-2511-loras-fast",
+      "name": "Qwen Image Edit 2511 Loras Fast",
+      "url": "https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "description": "Trending Hugging Face Space by prithivMLmods — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "ctx",
+      "name": "ctx",
+      "url": "https://github.com/ctxrs/ctx",
+      "description": "Search the coding agent history already on your machine.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 36,
+      "trendingScore": 65,
+      "source": "hackernews"
+    },
+    {
+      "id": "bash4llm",
+      "name": "Bash4LLM+",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "description": "A lightweight, dependency-free Bash wrapper for LLM APIs.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 35,
+      "trendingScore": 60,
+      "source": "hackernews"
+    },
+    {
+      "id": "nanoeuler",
+      "name": "NanoEuler",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "description": "GPT-2 scale model in pure C/CUDA from scratch.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-05",
+      "popularity": 33,
+      "trendingScore": 55,
+      "source": "hackernews"
+    },
+    {
+      "id": "windows-copilot-api",
+      "name": "Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 30,
+      "trendingScore": 41,
+      "source": "github"
+    },
+    {
+      "id": "guard-skills",
+      "name": "guard-skills",
+      "url": "https://skills.sh/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 29,
+      "trendingScore": 38,
+      "source": "github"
+    },
+    {
+      "id": "third-eye",
+      "name": "Third-Eye",
+      "url": "https://geospatialcommand.center",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-05",
+      "popularity": 29,
+      "trendingScore": 36,
+      "source": "github"
+    }
+  ]
+}

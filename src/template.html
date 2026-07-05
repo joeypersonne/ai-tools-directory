@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Radar — The Self-Updating AI Tools Directory</title>
+  <meta name="description" content="Discover __TOOL_COUNT__+ AI tools across __CATEGORY_COUNT__ categories. New, trending, popular, free and paid AI tools — updated automatically every day.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="#">
+        <span class="brand-mark">🛰️</span>
+        <span class="brand-name">AI&nbsp;Radar</span>
+      </a>
+      <span class="updated-pill" title="The directory refreshes itself automatically every day">
+        <span class="pulse-dot"></span> Auto-updated daily · __LAST_UPDATED__
+      </span>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Discover the best <span class="grad">AI tools</span>, every day</h1>
+      <p class="hero-sub">__TOOL_COUNT__ tools across __CATEGORY_COUNT__ categories — new launches, trending picks, and the all-time greats. Free and paid, all with direct links.</p>
+      <div class="searchbox">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="search" type="search" placeholder="Search tools, e.g. “video”, “free image generator”, “coding agent”…" autocomplete="off">
+      </div>
+    </div>
+  </section>
+
+  <main class="container">
+    <nav class="tabs" id="tabs" aria-label="Tool lists">
+      <button class="tab active" data-tab="all">All tools</button>
+      <button class="tab" data-tab="new">🆕 New</button>
+      <button class="tab" data-tab="trending">🔥 Trending</button>
+      <button class="tab" data-tab="popular">⭐ Popular</button>
+    </nav>
+
+    <div class="filters">
+      <div class="chip-row" id="pricing-filters">
+        <button class="chip active" data-pricing="all">All pricing</button>
+        <button class="chip" data-pricing="free">Free</button>
+        <button class="chip" data-pricing="freemium">Freemium</button>
+        <button class="chip" data-pricing="paid">Paid</button>
+      </div>
+      <div class="chip-row categories" id="category-filters"></div>
+    </div>
+
+    <p class="result-count" id="result-count"></p>
+    <div class="grid" id="grid"></div>
+    <button class="load-more" id="load-more" hidden>Show more tools</button>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p><strong>AI Radar</strong> — a self-updating directory of AI tools. New tools are discovered automatically every day from Hacker News, GitHub, and Hugging Face.</p>
+      <p class="fineprint">Last updated __LAST_UPDATED__ · __TOOL_COUNT__ tools listed · Links open the official website of each tool.</p>
+    </div>
+  </footer>
+
+  <script>
+    window.__TOOLS__ = __TOOLS_JSON__;
+    window.__CATEGORIES__ = __CATEGORIES_JSON__;
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
