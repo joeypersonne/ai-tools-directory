@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T09:53:40+00:00",
+    "lastUpdated": "2026-07-08T08:38:46+00:00",
     "version": 1
   },
   "tools": [
@@ -2172,7 +2172,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 38,
-      "trendingScore": 89,
+      "trendingScore": 91,
       "source": "github"
     },
     {
@@ -2292,7 +2292,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 35,
-      "trendingScore": 46,
+      "trendingScore": 39,
       "source": "hackernews"
     },
     {
@@ -2307,7 +2307,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 33,
-      "trendingScore": 43,
+      "trendingScore": 36,
       "source": "hackernews"
     },
     {
@@ -2337,7 +2337,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 29,
-      "trendingScore": 30,
+      "trendingScore": 25,
       "source": "github"
     },
     {
@@ -2382,7 +2382,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 75,
+      "trendingScore": 63,
       "source": "huggingface"
     },
     {
@@ -2397,7 +2397,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 75,
+      "trendingScore": 63,
       "source": "huggingface"
     },
     {
@@ -2412,7 +2412,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 63,
+      "trendingScore": 53,
       "source": "huggingface"
     },
     {
@@ -2442,7 +2442,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 34,
-      "trendingScore": 67,
+      "trendingScore": 68,
       "source": "huggingface"
     },
     {
@@ -2457,7 +2457,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 28,
-      "trendingScore": 40,
+      "trendingScore": 41,
       "source": "github"
     },
     {
@@ -2472,7 +2472,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 28,
-      "trendingScore": 40,
+      "trendingScore": 41,
       "source": "github"
     },
     {
@@ -2547,7 +2547,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 26,
+      "trendingScore": 22,
       "source": "hackernews"
     },
     {
@@ -2577,7 +2577,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 26,
-      "trendingScore": 33,
+      "trendingScore": 34,
       "source": "github"
     },
     {
@@ -2592,7 +2592,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 32,
-      "trendingScore": 56,
+      "trendingScore": 47,
       "source": "huggingface"
     },
     {
@@ -2607,7 +2607,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 30,
-      "trendingScore": 48,
+      "trendingScore": 50,
       "source": "huggingface"
     },
     {
@@ -2667,7 +2667,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 27,
+      "trendingScore": 22,
       "source": "github"
     },
     {
@@ -2682,7 +2682,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 25,
-      "trendingScore": 28,
+      "trendingScore": 29,
       "source": "huggingface"
     },
     {
@@ -2697,7 +2697,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 28,
+      "trendingScore": 29,
       "source": "huggingface"
     },
     {
@@ -2727,7 +2727,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 27,
+      "trendingScore": 22,
       "source": "github"
     },
     {
@@ -2742,7 +2742,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "source": "github"
     },
     {
@@ -2757,7 +2757,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 23,
+      "trendingScore": 24,
       "source": "huggingface"
     },
     {
@@ -2772,7 +2772,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 24,
-      "trendingScore": 24,
+      "trendingScore": 25,
       "source": "github"
     },
     {
@@ -2787,7 +2787,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 23,
-      "trendingScore": 22,
+      "trendingScore": 23,
       "source": "github"
     },
     {
@@ -2802,7 +2802,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 23,
-      "trendingScore": 22,
+      "trendingScore": 23,
       "source": "github"
     },
     {
@@ -2817,7 +2817,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 22,
+      "trendingScore": 23,
       "source": "github"
     },
     {
@@ -2832,7 +2832,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 21,
+      "trendingScore": 22,
       "source": "github"
     },
     {
@@ -2847,7 +2847,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 20,
+      "trendingScore": 22,
       "source": "github"
     },
     {
@@ -2862,7 +2862,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 18,
+      "trendingScore": 20,
       "source": "github"
     },
     {
@@ -2877,7 +2877,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 22,
-      "trendingScore": 18,
+      "trendingScore": 20,
       "source": "github"
     },
     {
@@ -2892,7 +2892,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 21,
-      "trendingScore": 17,
+      "trendingScore": 19,
       "source": "github"
     },
     {
@@ -2907,7 +2907,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 21,
-      "trendingScore": 12,
+      "trendingScore": 10,
       "source": "github"
     },
     {
@@ -2922,7 +2922,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 21,
-      "trendingScore": 17,
+      "trendingScore": 19,
       "source": "github"
     },
     {
@@ -2937,7 +2937,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 21,
-      "trendingScore": 8,
+      "trendingScore": 12,
       "source": "github"
     },
     {
@@ -2952,7 +2952,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-06",
       "popularity": 24,
-      "trendingScore": 45,
+      "trendingScore": 66,
       "source": "github"
     },
     {
@@ -2967,7 +2967,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-06",
       "popularity": 22,
-      "trendingScore": 13,
+      "trendingScore": 16,
       "source": "github"
     },
     {
@@ -2982,7 +2982,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-07-07",
       "popularity": 30,
-      "trendingScore": 42,
+      "trendingScore": 48,
       "source": "hackernews"
     },
     {
@@ -2997,7 +2997,127 @@
       "pricing": "free",
       "dateAdded": "2026-07-07",
       "popularity": 22,
-      "trendingScore": 9,
+      "trendingScore": 15,
+      "source": "github"
+    },
+    {
+      "id": "qwen3-tts",
+      "name": "Qwen3 Tts",
+      "url": "https://huggingface.co/spaces/Qwen/Qwen3-TTS",
+      "description": "Trending Hugging Face Space by Qwen — try it live in the browser.",
+      "category": "Audio & Music",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-08",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "omnivoice",
+      "name": "Omnivoice",
+      "url": "https://huggingface.co/spaces/k2-fsa/OmniVoice",
+      "description": "Trending Hugging Face Space by k2-fsa — try it live in the browser.",
+      "category": "Audio & Music",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-08",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "qwen-image-multiple-angles-3d-camera",
+      "name": "Qwen Image Multiple Angles 3D Camera",
+      "url": "https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera",
+      "description": "Trending Hugging Face Space by multimodalart — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-08",
+      "popularity": 37,
+      "trendingScore": 70,
+      "source": "huggingface"
+    },
+    {
+      "id": "docx-cli",
+      "name": "Docx-CLI",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "description": "Agents read/edit Word docs using 1/2 the time and tokens.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-08",
+      "popularity": 35,
+      "trendingScore": 63,
+      "source": "hackernews"
+    },
+    {
+      "id": "fortress",
+      "name": "Fortress",
+      "url": "https://github.com/tiliondev/fortress",
+      "description": "A stealth Chromium so your agents stop getting blocked.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-08",
+      "popularity": 29,
+      "trendingScore": 39,
+      "source": "hackernews"
+    },
+    {
+      "id": "halo",
+      "name": "Halo",
+      "url": "https://github.com/bkuan001/halo-record",
+      "description": "Open-source, tamper-evident runtime evidence for AI agents.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-07-08",
+      "popularity": 28,
+      "trendingScore": 32,
+      "source": "hackernews"
+    },
+    {
+      "id": "gemma-avatar",
+      "name": "Gemma Avatar",
+      "url": "https://huggingface.co/spaces/victor/gemma-avatar",
+      "description": "Trending Hugging Face Space by victor — try it live in the browser.",
+      "category": "3D & Avatars",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-08",
+      "popularity": 23,
+      "trendingScore": 12,
+      "source": "huggingface"
+    },
+    {
+      "id": "potato",
+      "name": "potato",
+      "url": "https://github.com/onism1767-creator/potato",
+      "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
+      "category": "Search & Research",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-07-08",
+      "popularity": 21,
+      "trendingScore": 7,
       "source": "github"
     }
   ]
