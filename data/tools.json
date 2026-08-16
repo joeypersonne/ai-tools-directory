@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-16T06:49:51+00:00",
+    "lastUpdated": "2026-08-16T14:53:10+00:00",
     "version": 1
   },
   "tools": [
@@ -5924,6 +5924,24 @@
       "popularity": 21,
       "trendingScore": 6,
       "source": "github"
+    },
+    {
+      "id": "agent-qa",
+      "name": "Agent QA",
+      "url": "https://github.com/vostride/agent-qa",
+      "description": "Source-available CLI and MCP server for natural-language web and mobile regression tests with run memory; bring your own model, and provider charges may apply.",
+      "category": "Coding & Development",
+      "tags": [
+        "qa",
+        "testing",
+        "browser-automation",
+        "mcp"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-08-16",
+      "popularity": 0,
+      "trendingScore": 0,
+      "source": "manual"
     }
   ]
 }
