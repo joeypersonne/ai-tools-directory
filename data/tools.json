@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-24T11:29:57+00:00",
+    "lastUpdated": "2026-10-24T10:41:27+00:00",
     "version": 1
   },
   "tools": [
@@ -2202,7 +2202,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 36,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -2217,7 +2217,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 5,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -2247,7 +2247,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 38,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -2262,7 +2262,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -2382,7 +2382,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 5,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -2412,7 +2412,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -2442,7 +2442,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 34,
-      "trendingScore": 0,
+      "trendingScore": 38,
       "source": "huggingface"
     },
     {
@@ -2622,7 +2622,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 29,
-      "trendingScore": 29,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -3012,7 +3012,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-08",
       "popularity": 37,
-      "trendingScore": 12,
+      "trendingScore": 45,
       "source": "huggingface"
     },
     {
@@ -3027,7 +3027,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-08",
       "popularity": 37,
-      "trendingScore": 0,
+      "trendingScore": 1,
       "source": "huggingface"
     },
     {
@@ -4362,7 +4362,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-25",
       "popularity": 22,
-      "trendingScore": 75,
+      "trendingScore": 24,
       "source": "huggingface"
     },
     {
@@ -5097,7 +5097,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-04",
       "popularity": 37,
-      "trendingScore": 10,
+      "trendingScore": 3,
       "source": "huggingface"
     },
     {
@@ -5112,7 +5112,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-08-04",
       "popularity": 31,
-      "trendingScore": 36,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -5157,7 +5157,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-04",
       "popularity": 23,
-      "trendingScore": 49,
+      "trendingScore": 62,
       "source": "huggingface"
     },
     {
@@ -5292,7 +5292,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-07",
       "popularity": 21,
-      "trendingScore": 24,
+      "trendingScore": 4,
       "source": "github"
     },
     {
@@ -5352,7 +5352,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-08",
       "popularity": 22,
-      "trendingScore": 12,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -5382,7 +5382,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-09",
       "popularity": 22,
-      "trendingScore": 8,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -5427,7 +5427,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-10",
       "popularity": 29,
-      "trendingScore": 0,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -5442,7 +5442,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-10",
       "popularity": 22,
-      "trendingScore": 45,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -5517,7 +5517,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-11",
       "popularity": 29,
-      "trendingScore": 0,
+      "trendingScore": 63,
       "source": "huggingface"
     },
     {
@@ -5547,7 +5547,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-12",
       "popularity": 35,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -5607,7 +5607,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-13",
       "popularity": 43,
-      "trendingScore": 5,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -5697,7 +5697,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-14",
       "popularity": 24,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -5727,7 +5727,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-14",
       "popularity": 22,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -5772,7 +5772,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-15",
       "popularity": 24,
-      "trendingScore": 0,
+      "trendingScore": 3,
       "source": "huggingface"
     },
     {
@@ -5892,7 +5892,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-16",
       "popularity": 23,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -6072,7 +6072,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-18",
       "popularity": 22,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6117,7 +6117,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-19",
       "popularity": 22,
-      "trendingScore": 38,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6147,7 +6147,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-20",
       "popularity": 37,
-      "trendingScore": 53,
+      "trendingScore": 8,
       "source": "huggingface"
     },
     {
@@ -6252,7 +6252,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-21",
       "popularity": 22,
-      "trendingScore": 17,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -6267,7 +6267,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-21",
       "popularity": 22,
-      "trendingScore": 5,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6417,7 +6417,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-25",
       "popularity": 23,
-      "trendingScore": 4,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6447,7 +6447,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-25",
       "popularity": 21,
-      "trendingScore": 2,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6522,7 +6522,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-26",
       "popularity": 21,
-      "trendingScore": 6,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6687,7 +6687,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-28",
       "popularity": 21,
-      "trendingScore": 22,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6702,7 +6702,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-28",
       "popularity": 21,
-      "trendingScore": 5,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6717,7 +6717,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-29",
       "popularity": 21,
-      "trendingScore": 30,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6732,7 +6732,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-29",
       "popularity": 21,
-      "trendingScore": 15,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6807,7 +6807,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-01",
       "popularity": 22,
-      "trendingScore": 27,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6837,7 +6837,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-02",
       "popularity": 45,
-      "trendingScore": 4,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -6852,7 +6852,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-02",
       "popularity": 25,
-      "trendingScore": 75,
+      "trendingScore": 38,
       "source": "huggingface"
     },
     {
@@ -6867,7 +6867,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-03",
       "popularity": 24,
-      "trendingScore": 12,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6912,7 +6912,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-04",
       "popularity": 28,
-      "trendingScore": 54,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6927,7 +6927,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-05",
       "popularity": 45,
-      "trendingScore": 7,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -6957,7 +6957,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-05",
       "popularity": 21,
-      "trendingScore": 2,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6972,7 +6972,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-05",
       "popularity": 21,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -6987,7 +6987,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-05",
       "popularity": 21,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7002,7 +7002,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-06",
       "popularity": 28,
-      "trendingScore": 3,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7017,7 +7017,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-06",
       "popularity": 28,
-      "trendingScore": 2,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7032,7 +7032,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-06",
       "popularity": 24,
-      "trendingScore": 30,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7047,7 +7047,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-07",
       "popularity": 37,
-      "trendingScore": 22,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7062,7 +7062,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-07",
       "popularity": 31,
-      "trendingScore": 14,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7107,7 +7107,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-08",
       "popularity": 37,
-      "trendingScore": 10,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7137,7 +7137,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-09",
       "popularity": 45,
-      "trendingScore": 21,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7152,7 +7152,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-09",
       "popularity": 23,
-      "trendingScore": 47,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7167,7 +7167,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-09",
       "popularity": 22,
-      "trendingScore": 22,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -7182,7 +7182,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-10",
       "popularity": 31,
-      "trendingScore": 13,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7197,7 +7197,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-10",
       "popularity": 31,
-      "trendingScore": 12,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7227,7 +7227,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-10",
       "popularity": 23,
-      "trendingScore": 27,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7242,7 +7242,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-10",
       "popularity": 23,
-      "trendingScore": 7,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7257,7 +7257,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-10",
       "popularity": 23,
-      "trendingScore": 4,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7272,7 +7272,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-10",
       "popularity": 21,
-      "trendingScore": 5,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7287,7 +7287,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-10",
       "popularity": 21,
-      "trendingScore": 27,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7302,7 +7302,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-12",
       "popularity": 45,
-      "trendingScore": 36,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7317,7 +7317,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-12",
       "popularity": 29,
-      "trendingScore": 17,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7332,7 +7332,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-12",
       "popularity": 22,
-      "trendingScore": 49,
+      "trendingScore": 2,
       "source": "github"
     },
     {
@@ -7347,7 +7347,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-12",
       "popularity": 22,
-      "trendingScore": 46,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7362,7 +7362,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-12",
       "popularity": 22,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7377,7 +7377,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-13",
       "popularity": 23,
-      "trendingScore": 25,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7392,7 +7392,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-13",
       "popularity": 22,
-      "trendingScore": 64,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7407,7 +7407,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-14",
       "popularity": 30,
-      "trendingScore": 60,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7437,7 +7437,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-14",
       "popularity": 22,
-      "trendingScore": 43,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7452,7 +7452,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-14",
       "popularity": 22,
-      "trendingScore": 3,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7482,7 +7482,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-14",
       "popularity": 21,
-      "trendingScore": 26,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7497,7 +7497,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-15",
       "popularity": 45,
-      "trendingScore": 51,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7512,7 +7512,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-15",
       "popularity": 33,
-      "trendingScore": 100,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7527,7 +7527,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-15",
       "popularity": 31,
-      "trendingScore": 31,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7542,7 +7542,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-15",
       "popularity": 24,
-      "trendingScore": 57,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7557,7 +7557,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-15",
       "popularity": 21,
-      "trendingScore": 25,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7572,7 +7572,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-16",
       "popularity": 37,
-      "trendingScore": 27,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7587,7 +7587,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-16",
       "popularity": 32,
-      "trendingScore": 42,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7602,7 +7602,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-16",
       "popularity": 32,
-      "trendingScore": 36,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7617,7 +7617,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-16",
       "popularity": 32,
-      "trendingScore": 47,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7632,7 +7632,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-16",
       "popularity": 28,
-      "trendingScore": 31,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7647,7 +7647,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-16",
       "popularity": 23,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7662,7 +7662,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-16",
       "popularity": 22,
-      "trendingScore": 48,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7677,7 +7677,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-16",
       "popularity": 22,
-      "trendingScore": 20,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7692,7 +7692,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-17",
       "popularity": 38,
-      "trendingScore": 73,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7707,7 +7707,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-17",
       "popularity": 25,
-      "trendingScore": 27,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7722,7 +7722,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-17",
       "popularity": 24,
-      "trendingScore": 52,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -7737,7 +7737,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-17",
       "popularity": 21,
-      "trendingScore": 23,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7752,7 +7752,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-18",
       "popularity": 45,
-      "trendingScore": 100,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7767,7 +7767,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-18",
       "popularity": 28,
-      "trendingScore": 40,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7782,7 +7782,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-18",
       "popularity": 24,
-      "trendingScore": 23,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7797,7 +7797,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-18",
       "popularity": 22,
-      "trendingScore": 28,
+      "trendingScore": 5,
       "source": "github"
     },
     {
@@ -7812,7 +7812,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-19",
       "popularity": 28,
-      "trendingScore": 42,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7827,7 +7827,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-19",
       "popularity": 23,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -7842,7 +7842,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-19",
       "popularity": 21,
-      "trendingScore": 20,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7857,7 +7857,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-20",
       "popularity": 26,
-      "trendingScore": 33,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7872,7 +7872,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-20",
       "popularity": 23,
-      "trendingScore": 30,
+      "trendingScore": 49,
       "source": "github"
     },
     {
@@ -7887,7 +7887,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-20",
       "popularity": 21,
-      "trendingScore": 18,
+      "trendingScore": 4,
       "source": "github"
     },
     {
@@ -7902,7 +7902,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-20",
       "popularity": 21,
-      "trendingScore": 18,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -7917,7 +7917,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-21",
       "popularity": 42,
-      "trendingScore": 100,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7932,7 +7932,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-21",
       "popularity": 27,
-      "trendingScore": 52,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7947,7 +7947,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-21",
       "popularity": 23,
-      "trendingScore": 37,
+      "trendingScore": 73,
       "source": "huggingface"
     },
     {
@@ -7962,7 +7962,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-21",
       "popularity": 21,
-      "trendingScore": 16,
+      "trendingScore": 5,
       "source": "github"
     },
     {
@@ -7977,7 +7977,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-22",
       "popularity": 35,
-      "trendingScore": 72,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -7992,7 +7992,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-22",
       "popularity": 30,
-      "trendingScore": 50,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -8007,7 +8007,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 29,
-      "trendingScore": 66,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -8022,7 +8022,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 24,
-      "trendingScore": 38,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -8037,7 +8037,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 22,
-      "trendingScore": 19,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -8052,7 +8052,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 22,
-      "trendingScore": 16,
+      "trendingScore": 5,
       "source": "github"
     },
     {
@@ -8067,7 +8067,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 21,
-      "trendingScore": 15,
+      "trendingScore": 8,
       "source": "github"
     },
     {
@@ -8082,7 +8082,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-23",
       "popularity": 35,
-      "trendingScore": 72,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -8097,7 +8097,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-23",
       "popularity": 29,
-      "trendingScore": 48,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -8112,7 +8112,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-23",
       "popularity": 24,
-      "trendingScore": 13,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -8127,7 +8127,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-23",
       "popularity": 21,
-      "trendingScore": 11,
+      "trendingScore": 8,
       "source": "github"
     },
     {
@@ -8142,7 +8142,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-24",
       "popularity": 23,
-      "trendingScore": 13,
+      "trendingScore": 4,
       "source": "huggingface"
     },
     {
@@ -8157,7 +8157,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-24",
       "popularity": 22,
-      "trendingScore": 8,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -8172,7 +8172,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-24",
       "popularity": 22,
-      "trendingScore": 8,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -8187,14 +8187,1709 @@
       "pricing": "free",
       "dateAdded": "2026-09-24",
       "popularity": 21,
-      "trendingScore": 7,
+      "trendingScore": 0,
       "source": "github"
     },
     {
+      "id": "agentrun",
+      "name": "AgentRun",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "description": "DSL to turn agents into workflows.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-09-25",
+      "popularity": 31,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "nemotron-diarization",
+      "name": "Nemotron Diarization",
+      "url": "https://huggingface.co/spaces/nvidia/nemotron-diarization",
+      "description": "Trending Hugging Face Space by nvidia — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-25",
+      "popularity": 24,
+      "trendingScore": 0,
+      "source": "huggingface"
+    },
+    {
+      "id": "typellm",
+      "name": "TypeLLM",
+      "url": "https://typellm.ai",
+      "description": "TypeLLM: LLMs with type-safe generation",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-25",
+      "popularity": 22,
+      "trendingScore": 9,
+      "source": "github"
+    },
+    {
+      "id": "doom-or-bloom-map-your-ai-worldview",
+      "name": "Doom or Bloom, map your AI worldview",
+      "url": "https://www.doom-or-bloom.com",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-09-26",
+      "popularity": 34,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "agentic-cuda-kernel-optimizer",
+      "name": "Agentic CUDA Kernel Optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-09-26",
+      "popularity": 28,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "meridian",
+      "name": "Meridian",
+      "url": "https://huggingface.co/spaces/Viggle/Meridian",
+      "description": "Trending Hugging Face Space by Viggle — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-27",
+      "popularity": 23,
+      "trendingScore": 0,
+      "source": "huggingface"
+    },
+    {
+      "id": "astra-quant-agent",
+      "name": "astra-quant-agent",
+      "url": "https://www.astraquant.tech",
+      "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates stop the rest. Multi-exchange crypto quant trading terminal ",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-27",
+      "popularity": 22,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "tinyaiarena-watch-ai-agents-battle-it-out",
+      "name": "TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-09-28",
+      "popularity": 45,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "kv-i2v",
+      "name": "Kv I2V",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/kv-i2v",
+      "description": "Trending Hugging Face Space by kulkas2pintu — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-28",
+      "popularity": 23,
+      "trendingScore": 6,
+      "source": "huggingface"
+    },
+    {
+      "id": "awesome-jev",
+      "name": "awesome-jev",
+      "url": "https://madewithjev.com",
+      "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrate",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-28",
+      "popularity": 21,
+      "trendingScore": 6,
+      "source": "github"
+    },
+    {
+      "id": "aihot",
+      "name": "AIHOT",
+      "url": "https://aihot.news",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-29",
+      "popularity": 43,
+      "trendingScore": 100,
+      "source": "github"
+    },
+    {
+      "id": "mimo-rl-envs-explorer",
+      "name": "Mimo Rl Envs Explorer",
+      "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
+      "description": "Trending Hugging Face Space by FineEnvs — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-29",
+      "popularity": 22,
+      "trendingScore": 0,
+      "source": "huggingface"
+    },
+    {
+      "id": "turbogpt",
+      "name": "TurboGPT",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "description": "Train 22KiB transformer in 13s.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-09-30",
+      "popularity": 33,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "seiso",
+      "name": "seiso",
+      "url": "https://github.com/scarletkc/seiso",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-30",
+      "popularity": 21,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "baize",
+      "name": "Baize",
+      "url": "https://github.com/Xu123-Bob/Baize",
+      "description": "Baize — an auspicious beast in ancient Chinese mythology that knows all things, now reincarnated as a Vibe Coding assistant.  An open-source AI Coding Agent CLI that supports multi",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-09-30",
+      "popularity": 21,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "lathoa-a-math-app-for-kids-where-the-ai-is-wrong-on-purpose",
+      "name": "Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-01",
+      "popularity": 32,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "chessfly",
+      "name": "Chessfly",
+      "url": "https://huggingface.co/spaces/mlabonne/chessfly",
+      "description": "Trending Hugging Face Space by mlabonne — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-01",
+      "popularity": 25,
+      "trendingScore": 4,
+      "source": "huggingface"
+    },
+    {
+      "id": "semantic-image-field",
+      "name": "Semantic Image Field",
+      "url": "https://huggingface.co/spaces/webml-community/semantic-image-field",
+      "description": "Trending Hugging Face Space by webml-community — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-01",
+      "popularity": 23,
+      "trendingScore": 0,
+      "source": "huggingface"
+    },
+    {
+      "id": "research-workbench-assistant",
+      "name": "research-workbench-assistant",
+      "url": "https://github.com/z-liu-xiugou/research-workbench-assistant",
+      "description": "Local-first research memory for Codex: checkpoints, progress ledgers, and Markdown/JSON paper notes. Early alpha.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-01",
+      "popularity": 21,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "flux-2-klein-multi-lora-v2",
+      "name": "Flux.2 Klein Multi Lora V2",
+      "url": "https://huggingface.co/spaces/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA-v2",
+      "description": "Trending Hugging Face Space by M3st3rJ4k3l — try it live in the browser.",
+      "category": "Design",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-02",
+      "popularity": 24,
+      "trendingScore": 2,
+      "source": "huggingface"
+    },
+    {
+      "id": "bfs-best-face-swap",
+      "name": "Bfs Best Face Swap",
+      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "description": "Trending Hugging Face Space by hugging-apps — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-02",
+      "popularity": 23,
+      "trendingScore": 75,
+      "source": "huggingface"
+    },
+    {
+      "id": "made-an-open-source-lego-ai-generator",
+      "name": "Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-03",
+      "popularity": 45,
+      "trendingScore": 4,
+      "source": "hackernews"
+    },
+    {
+      "id": "breadcrumb-record-everything-on-your-mac-context-manager",
+      "name": "Breadcrumb, record everything on your mac + context manager ",
+      "url": "https://innerloop.works/breadcrumb",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-03",
+      "popularity": 31,
+      "trendingScore": 1,
+      "source": "hackernews"
+    },
+    {
+      "id": "multi-harness-rl",
+      "name": "Multi Harness Rl",
+      "url": "https://huggingface.co/spaces/FineEnvs/multi-harness-rl",
+      "description": "Trending Hugging Face Space by FineEnvs — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-03",
+      "popularity": 25,
+      "trendingScore": 32,
+      "source": "huggingface"
+    },
+    {
+      "id": "strands-decider",
+      "name": "strands-decider",
+      "url": "https://strandsagents.com/docs/labs/",
+      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-03",
+      "popularity": 22,
+      "trendingScore": 33,
+      "source": "github"
+    },
+    {
+      "id": "nuvex-services",
+      "name": "nuvex-services",
+      "url": "https://github.com/NuvexNetwork/nuvex-services",
+      "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-03",
+      "popularity": 21,
+      "trendingScore": 12,
+      "source": "github"
+    },
+    {
+      "id": "reslop",
+      "name": "reslop",
+      "url": "https://reslop.it",
+      "description": "👁️ Review AI generated code and plan changes",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-03",
+      "popularity": 21,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "pi-pod",
+      "name": "Pi pod",
+      "url": "https://pipod.dev/",
+      "description": "Run your pi coding agent in sandboxes on your own server.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-04",
+      "popularity": 45,
+      "trendingScore": 4,
+      "source": "hackernews"
+    },
+    {
+      "id": "offrun",
+      "name": "Offrun",
+      "url": "https://offrun.dev/",
+      "description": "Manage every coding agent from one workspace.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-04",
+      "popularity": 38,
+      "trendingScore": 4,
+      "source": "hackernews"
+    },
+    {
+      "id": "graphene",
+      "name": "Graphene",
+      "url": "https://github.com/graphene-data/graphene",
+      "description": "Data analysis toolkit for your coding agent.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-04",
+      "popularity": 27,
+      "trendingScore": 0,
+      "source": "hackernews"
+    },
+    {
+      "id": "whirl",
+      "name": "whirl",
+      "url": "https://whirl.chat",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-04",
+      "popularity": 23,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "agent-jev",
+      "name": "agent-jev",
+      "url": "https://github.com/malevrigns/agent-jev",
+      "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distribu",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-04",
+      "popularity": 23,
+      "trendingScore": 12,
+      "source": "github"
+    },
+    {
+      "id": "minimax-h3-character-swap-lora",
+      "name": "Minimax H3 Character Swap Lora",
+      "url": "https://huggingface.co/spaces/hugging-apps/minimax-h3-character-swap-lora",
+      "description": "Trending Hugging Face Space by hugging-apps — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-04",
+      "popularity": 23,
+      "trendingScore": 45,
+      "source": "huggingface"
+    },
+    {
+      "id": "ai-search-for-every-photo-and-every-frame-of-video-on-macos",
+      "name": "AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Image Generation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-05",
+      "popularity": 45,
+      "trendingScore": 7,
+      "source": "hackernews"
+    },
+    {
+      "id": "model-pulse",
+      "name": "Model Pulse",
+      "url": "https://huggingface.co/spaces/tardellirs/model-pulse",
+      "description": "Trending Hugging Face Space by tardellirs — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-05",
+      "popularity": 22,
+      "trendingScore": 50,
+      "source": "huggingface"
+    },
+    {
+      "id": "openchart",
+      "name": "OpenChart",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "description": "OSS TradingView alternative with your own AI agent.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-07",
+      "popularity": 30,
+      "trendingScore": 35,
+      "source": "hackernews"
+    },
+    {
+      "id": "nanomuse",
+      "name": "NanoMuse",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "description": "An open-source AI agent for your phone and computer.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-07",
+      "popularity": 27,
+      "trendingScore": 10,
+      "source": "hackernews"
+    },
+    {
+      "id": "jotbus",
+      "name": "Jotbus",
+      "url": "https://jotbus.com/",
+      "description": "A shared encrypted scratchpad for coding agents.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-07",
+      "popularity": 26,
+      "trendingScore": 2,
+      "source": "hackernews"
+    },
+    {
+      "id": "openjev",
+      "name": "Openjev",
+      "url": "https://huggingface.co/spaces/AlexWortega/openjev",
+      "description": "Trending Hugging Face Space by AlexWortega — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-07",
+      "popularity": 23,
+      "trendingScore": 1,
+      "source": "huggingface"
+    },
+    {
+      "id": "clodfarm",
+      "name": "clodfarm",
+      "url": "https://clod.farm",
+      "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekl",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-07",
+      "popularity": 21,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "anyimage",
+      "name": "AnyImage",
+      "url": "https://docs.omoolab.xyz/anyimage/latest/",
+      "description": "Fast image-guided structure building tools for Blender",
+      "category": "Image Generation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-07",
+      "popularity": 21,
+      "trendingScore": 5,
+      "source": "github"
+    },
+    {
+      "id": "sloppy",
+      "name": "sloppy",
+      "url": "https://github.com/Heyosseus/sloppy",
+      "description": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. ",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-07",
+      "popularity": 21,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "centra-gideon-agent",
+      "name": "centra-gideon-agent",
+      "url": "https://centra.ag",
+      "description": "The companion AI agent that learns, adapts and gets the work done no matter the task",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-07",
+      "popularity": 21,
+      "trendingScore": 4,
+      "source": "github"
+    },
+    {
+      "id": "printfilm",
+      "name": "printfilm",
+      "url": "https://www.printfilm.com",
+      "description": "PRINTFILM: AI short-video marketing and AI short-drama creation platform",
+      "category": "Video",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-08",
+      "popularity": 43,
+      "trendingScore": 5,
+      "source": "github"
+    },
+    {
+      "id": "agent-reviews",
+      "name": "Agent.reviews",
+      "url": "https://agent.reviews/",
+      "description": "Where AI agents read and write reviews on tools.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-08",
+      "popularity": 35,
+      "trendingScore": 13,
+      "source": "hackernews"
+    },
+    {
+      "id": "aurelio-finance",
+      "name": "aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-08",
+      "popularity": 23,
+      "trendingScore": 67,
+      "source": "github"
+    },
+    {
+      "id": "qwen-2511-plus-flux-2-klein-9b",
+      "name": "Qwen 2511 Plus Flux.2 Klein 9B",
+      "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
+      "description": "Trending Hugging Face Space by AST-1320 — try it live in the browser.",
+      "category": "Design",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-08",
+      "popularity": 23,
+      "trendingScore": 16,
+      "source": "huggingface"
+    },
+    {
+      "id": "box",
+      "name": "box",
+      "url": "https://strandsagents.com",
+      "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential ",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-08",
+      "popularity": 21,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "ai-goodpractice",
+      "name": "ai_goodpractice",
+      "url": "https://github.com/xop01/ai_goodpractice",
+      "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-08",
+      "popularity": 21,
+      "trendingScore": 31,
+      "source": "github"
+    },
+    {
+      "id": "jevman",
+      "name": "Jevman",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "description": "AI decision models play Pac-Man.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 36,
+      "trendingScore": 18,
+      "source": "hackernews"
+    },
+    {
+      "id": "free-open-source-adobe-lightroom-alternative-completely-loc",
+      "name": "Free open source Adobe Lightroom alternative, completely loc",
+      "url": "https://github.com/thesnarkitecht/rembrandt",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 31,
+      "trendingScore": 15,
+      "source": "hackernews"
+    },
+    {
+      "id": "edi-life-os",
+      "name": "Edi Life OS",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "description": "Self-hosted life dashboard with an MCP server for AI.",
+      "category": "Data & Analytics",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 29,
+      "trendingScore": 9,
+      "source": "hackernews"
+    },
+    {
+      "id": "i-put-an-ai-agent-on-a-nokia-110",
+      "name": "I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 27,
+      "trendingScore": 6,
+      "source": "hackernews"
+    },
+    {
+      "id": "pocketty",
+      "name": "Pocketty",
+      "url": "https://pocketty.app/",
+      "description": "IPhone SSH terminal that pings you when an agent is blocked.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 27,
+      "trendingScore": 6,
+      "source": "hackernews"
+    },
+    {
+      "id": "pinrail",
+      "name": "Pinrail",
+      "url": "https://github.com/forgeplane/pinrail",
+      "description": "A desktop inbox where coding agents wait for your review.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-09",
+      "popularity": 26,
+      "trendingScore": 4,
+      "source": "hackernews"
+    },
+    {
+      "id": "let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your",
+      "name": "Let your AI agents paint big arrows, boxes and text on your ",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-10",
+      "popularity": 45,
+      "trendingScore": 21,
+      "source": "hackernews"
+    },
+    {
+      "id": "ai-novel-studio",
+      "name": "ai-novel-studio",
+      "url": "https://github.com/weike-zhang/ai-novel-studio",
+      "description": "AI novel generation with world building, interactive choices, and persistent character state. Next.js + Go. AI 小说创作台。",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-10",
+      "popularity": 22,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "folkbench",
+      "name": "folkbench",
+      "url": "https://folkbench.com",
+      "description": "Folkbench 是一个可信的 AI 中转站评测与服务目录，按模型比较可用率、响应速度、价格、隐私与运营证据",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-10",
+      "popularity": 21,
+      "trendingScore": 100,
+      "source": "github"
+    },
+    {
+      "id": "dontbemichael",
+      "name": "dontbemichael",
+      "url": "https://dontbemichael.com",
+      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-10",
+      "popularity": 21,
+      "trendingScore": 2,
+      "source": "github"
+    },
+    {
+      "id": "new-term-radar",
+      "name": "new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-12",
+      "popularity": 23,
+      "trendingScore": 75,
+      "source": "github"
+    },
+    {
+      "id": "motionmaxxing",
+      "name": "motionmaxxing",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "category": "Video",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-12",
+      "popularity": 22,
+      "trendingScore": 45,
+      "source": "github"
+    },
+    {
+      "id": "paradee",
+      "name": "Paradee",
+      "url": "https://huggingface.co/spaces/sahilmahendrakar/paradee",
+      "description": "Trending Hugging Face Space by sahilmahendrakar — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-13",
+      "popularity": 23,
+      "trendingScore": 1,
+      "source": "huggingface"
+    },
+    {
+      "id": "system-one-arcade",
+      "name": "System One Arcade",
+      "url": "https://huggingface.co/spaces/LiquidAI/system-one-arcade",
+      "description": "Trending Hugging Face Space by LiquidAI — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-13",
+      "popularity": 22,
+      "trendingScore": 7,
+      "source": "huggingface"
+    },
+    {
+      "id": "solid-glass",
+      "name": "solid-glass",
+      "url": "https://deeplethe.github.io/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "category": "Design",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-13",
+      "popularity": 22,
+      "trendingScore": 92,
+      "source": "github"
+    },
+    {
+      "id": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-vi",
+      "name": "I built a tool to track what AI leaders say and how their vi",
+      "url": "https://blumify.io/people",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Marketing & Sales",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-14",
+      "popularity": 45,
+      "trendingScore": 51,
+      "source": "hackernews"
+    },
+    {
+      "id": "pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your",
+      "name": "Pulse Local, a Mac budgeting app whose AI models run on your",
+      "url": "https://pulseos.finance",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-14",
+      "popularity": 45,
+      "trendingScore": 51,
+      "source": "hackernews"
+    },
+    {
+      "id": "parsimony",
+      "name": "Parsimony",
+      "url": "https://parsimony.lasu.dev/",
+      "description": "An open-source benchmark for how much code AI models add.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-14",
+      "popularity": 37,
+      "trendingScore": 41,
+      "source": "hackernews"
+    },
+    {
+      "id": "deslop",
+      "name": "Deslop",
+      "url": "https://github.com/maharshi365/deslop",
+      "description": "Oxlint rules for AI-generated TypeScript.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-14",
+      "popularity": 27,
+      "trendingScore": 18,
+      "source": "hackernews"
+    },
+    {
+      "id": "minimax-h3-360-orbit",
+      "name": "Minimax H3 360 Orbit",
+      "url": "https://huggingface.co/spaces/pablodawson/minimax-h3-360-orbit",
+      "description": "Trending Hugging Face Space by pablodawson — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-14",
+      "popularity": 24,
+      "trendingScore": 50,
+      "source": "huggingface"
+    },
+    {
+      "id": "qwen-qwen-image-2-1-turbo",
+      "name": "Qwen Qwen Image 2 1 Turbo",
+      "url": "https://huggingface.co/spaces/hugging-apps/qwen-qwen-image-2-1-turbo",
+      "description": "Trending Hugging Face Space by hugging-apps — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-14",
+      "popularity": 24,
+      "trendingScore": 52,
+      "source": "huggingface"
+    },
+    {
+      "id": "iris-3b",
+      "name": "Iris 3B",
+      "url": "https://huggingface.co/spaces/speridlabs/iris-3b",
+      "description": "Trending Hugging Face Space by speridlabs — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-14",
+      "popularity": 22,
+      "trendingScore": 11,
+      "source": "huggingface"
+    },
+    {
+      "id": "blender-ai-addon",
+      "name": "blender-ai-addon",
+      "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+      "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "category": "Image Generation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-14",
+      "popularity": 22,
+      "trendingScore": 27,
+      "source": "github"
+    },
+    {
+      "id": "graphicle-a-rust-port-of-graphify-with-memory-for-coding-ag",
+      "name": "Graphicle, a Rust port of Graphify with memory for coding ag",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-15",
+      "popularity": 31,
+      "trendingScore": 32,
+      "source": "hackernews"
+    },
+    {
+      "id": "building-an-llm-from-scratch-in-typescript",
+      "name": "Building an LLM from Scratch in TypeScript",
+      "url": "https://book.humanexperiences.io/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-15",
+      "popularity": 28,
+      "trendingScore": 18,
+      "source": "hackernews"
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "url": "https://huggingface.co/spaces/autotrust/news",
+      "description": "Trending Hugging Face Space by autotrust — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-15",
+      "popularity": 24,
+      "trendingScore": 21,
+      "source": "huggingface"
+    },
+    {
+      "id": "shorts",
+      "name": "Shorts",
+      "url": "https://huggingface.co/spaces/autotrust/shorts",
+      "description": "Trending Hugging Face Space by autotrust — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-15",
+      "popularity": 24,
+      "trendingScore": 21,
+      "source": "huggingface"
+    },
+    {
+      "id": "drama-3",
+      "name": "Drama 3",
+      "url": "https://huggingface.co/spaces/fishaudio/Drama-3",
+      "description": "Trending Hugging Face Space by fishaudio — try it live in the browser.",
+      "category": "Audio & Music",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-15",
+      "popularity": 23,
+      "trendingScore": 49,
+      "source": "huggingface"
+    },
+    {
+      "id": "indra",
+      "name": "indra",
+      "url": "https://www.datalab.to",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-15",
+      "popularity": 23,
+      "trendingScore": 45,
+      "source": "github"
+    },
+    {
+      "id": "flux-3-image-klein",
+      "name": "Flux 3 Image Klein",
+      "url": "https://huggingface.co/spaces/black-forest-labs/flux-3-image-klein",
+      "description": "Trending Hugging Face Space by black-forest-labs — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-16",
+      "popularity": 24,
+      "trendingScore": 72,
+      "source": "huggingface"
+    },
+    {
+      "id": "open-intelligent-ui",
+      "name": "open-intelligent-ui",
+      "url": "https://www.openui.com/demo/intelligent-ui",
+      "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
+      "category": "Image Generation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-16",
+      "popularity": 24,
+      "trendingScore": 36,
+      "source": "github"
+    },
+    {
+      "id": "andee",
+      "name": "andee",
+      "url": "https://heyandee.com",
+      "description": "An agent that moves into your Android phone and becomes its soul — not an assistant, not a tool. Any app, no integrations, on-device, one APK.",
+      "category": "Agents & Automation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-16",
+      "popularity": 22,
+      "trendingScore": 0,
+      "source": "github"
+    },
+    {
+      "id": "ailearningguide",
+      "name": "AILearningGuide",
+      "url": "https://github.com/Fazmin/AILearningGuide",
+      "description": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-16",
+      "popularity": 21,
+      "trendingScore": 24,
+      "source": "github"
+    },
+    {
+      "id": "crosspet",
+      "name": "crosspet",
+      "url": "https://github.com/lokicorvus/crosspet/releases/latest",
+      "description": "跨 AI 桌宠：跟着你用的 AI 换形象、跟着 AI 的工作状态做动作",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-16",
+      "popularity": 21,
+      "trendingScore": 25,
+      "source": "github"
+    },
+    {
+      "id": "llmspeed",
+      "name": "Llmspeed",
+      "url": "https://llmspeed.dev/",
+      "description": "Feel how fast a local LLM runs before you buy the hardware.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-17",
+      "popularity": 39,
+      "trendingScore": 85,
+      "source": "hackernews"
+    },
+    {
+      "id": "rstation",
+      "name": "rStation",
+      "url": "https://rstation.ai/",
+      "description": "A shared research lab for your AI agents.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-17",
+      "popularity": 33,
+      "trendingScore": 55,
+      "source": "hackernews"
+    },
+    {
+      "id": "moss-image",
+      "name": "Moss Image",
+      "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-Image",
+      "description": "Trending Hugging Face Space by OpenMOSS-Team — try it live in the browser.",
+      "category": "Image Generation",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-17",
+      "popularity": 23,
+      "trendingScore": 55,
+      "source": "huggingface"
+    },
+    {
+      "id": "grandet",
+      "name": "Grandet",
+      "url": "https://grandet.ai",
+      "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay ",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-17",
+      "popularity": 22,
+      "trendingScore": 32,
+      "source": "github"
+    },
+    {
+      "id": "vibestart",
+      "name": "vibestart",
+      "url": "https://vibestart.net",
+      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-17",
+      "popularity": 21,
+      "trendingScore": 23,
+      "source": "github"
+    },
+    {
+      "id": "awesome-qwen-image",
+      "name": "awesome-qwen-image",
+      "url": "https://github.com/wildminder/awesome-qwen-image",
+      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "category": "Image Generation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-17",
+      "popularity": 21,
+      "trendingScore": 5,
+      "source": "github"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "description": "A hook that quizzes you on your AI's code before shipping.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-18",
+      "popularity": 45,
+      "trendingScore": 100,
+      "source": "hackernews"
+    },
+    {
+      "id": "awesome-rea-cases",
+      "name": "awesome-REA-cases",
+      "url": "https://github.com/songshikang0111/awesome-REA-cases",
+      "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-18",
+      "popularity": 22,
+      "trendingScore": 24,
+      "source": "github"
+    },
+    {
+      "id": "dsh-codex-effort-slider",
+      "name": "dsh-codex-effort-slider",
+      "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+      "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-18",
+      "popularity": 21,
+      "trendingScore": 22,
+      "source": "github"
+    },
+    {
+      "id": "qwen-2511-plus-flux-2-klein",
+      "name": "Qwen 2511 Plus Flux.2 Klein",
+      "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
+      "description": "Trending Hugging Face Space by AST-1320 — try it live in the browser.",
+      "category": "Design",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-19",
+      "popularity": 32,
+      "trendingScore": 75,
+      "source": "huggingface"
+    },
+    {
+      "id": "awesome-justin-sun-ideas-to-ai-howto",
+      "name": "awesome-justin-sun-ideas-to-ai-howto",
+      "url": "https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto",
+      "description": "孙宇晨的观点，用 AI 落地。两期访谈（邵艾伦、金明）的带时间戳全文和 23 篇 AI 教程，工具总表记了 86 个工具在国内能不能用。AGENT.md 复制给任何 AI 就能用，也能装成 skill",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-19",
+      "popularity": 21,
+      "trendingScore": 11,
+      "source": "github"
+    },
+    {
+      "id": "swe-sweep",
+      "name": "swe-sweep",
+      "url": "https://swesweep.com",
+      "description": "How many bugs can LMs find & fix in large codebases?",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-19",
+      "popularity": 21,
+      "trendingScore": 20,
+      "source": "github"
+    },
+    {
+      "id": "openspline",
+      "name": "openspline",
+      "url": "https://www.openspline.dev/",
+      "description": "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally",
+      "category": "Video",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-19",
+      "popularity": 21,
+      "trendingScore": 22,
+      "source": "github"
+    },
+    {
+      "id": "qwen3-4b-with-the-ai-writing-tics-trained-out",
+      "name": "Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Writing & Content",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-20",
+      "popularity": 45,
+      "trendingScore": 100,
+      "source": "hackernews"
+    },
+    {
+      "id": "rl-explorer",
+      "name": "Rl Explorer",
+      "url": "https://huggingface.co/spaces/FineEnvs/RL-Explorer",
+      "description": "Trending Hugging Face Space by FineEnvs — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-20",
+      "popularity": 22,
+      "trendingScore": 4,
+      "source": "huggingface"
+    },
+    {
+      "id": "speech-to-decisions",
+      "name": "Speech To Decisions",
+      "url": "https://huggingface.co/spaces/ibm-granite/speech-to-decisions",
+      "description": "Trending Hugging Face Space by ibm-granite — try it live in the browser.",
+      "category": "Audio & Music",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-20",
+      "popularity": 22,
+      "trendingScore": 26,
+      "source": "huggingface"
+    },
+    {
+      "id": "infinisplat2",
+      "name": "Infinisplat2",
+      "url": "https://huggingface.co/spaces/Edisoneh/InfiniSplat2",
+      "description": "Trending Hugging Face Space by Edisoneh — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-21",
+      "popularity": 22,
+      "trendingScore": 22,
+      "source": "huggingface"
+    },
+    {
+      "id": "thinkterm",
+      "name": "ThinkTerm",
+      "url": "https://closex.org/thinkterm/",
+      "description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, brows",
+      "category": "Coding & Development",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-21",
+      "popularity": 21,
+      "trendingScore": 17,
+      "source": "github"
+    },
+    {
+      "id": "omnara",
+      "name": "Omnara",
+      "url": "https://github.com/omnara-ai/omnara",
+      "description": "Open-source alternative to Claude Managed Agents.",
+      "category": "Agents & Automation",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-22",
+      "popularity": 41,
+      "trendingScore": 100,
+      "source": "hackernews"
+    },
+    {
+      "id": "ai-built-browser-games-collected-in-one-place",
+      "name": "AI-built browser games, collected in one place",
+      "url": "https://playgroundarcade.com/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-22",
+      "popularity": 26,
+      "trendingScore": 45,
+      "source": "hackernews"
+    },
+    {
+      "id": "nlp-before-llms",
+      "name": "Nlp Before Llms",
+      "url": "https://huggingface.co/spaces/dlouapre/nlp-before-llms",
+      "description": "Trending Hugging Face Space by dlouapre — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-22",
+      "popularity": 24,
+      "trendingScore": 31,
+      "source": "huggingface"
+    },
+    {
+      "id": "affectui",
+      "name": "affectui",
+      "url": "https://www.affectui.com",
+      "description": "Handcrafted React components, illustrations and motion for AI products. One file each, calm motion, dark mode built in. Install with the shadcn CLI – free and open source.",
+      "category": "Image Generation",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-22",
+      "popularity": 21,
+      "trendingScore": 16,
+      "source": "github"
+    },
+    {
+      "id": "ui-micro-interactions-prompts-for-ai",
+      "name": "UI micro interactions prompts for AI",
+      "url": "https://www.typeui.sh/micro-interactions",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Design",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-23",
+      "popularity": 39,
+      "trendingScore": 84,
+      "source": "hackernews"
+    },
+    {
+      "id": "turn-regular-javascript-into-a-neural-net",
+      "name": "Turn regular JavaScript into a neural net",
+      "url": "https://chenglou.me/handwired/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-23",
+      "popularity": 30,
+      "trendingScore": 49,
+      "source": "hackernews"
+    },
+    {
+      "id": "simready-central",
+      "name": "Simready Central",
+      "url": "https://huggingface.co/spaces/nvidia/simready-central",
+      "description": "Trending Hugging Face Space by nvidia — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-23",
+      "popularity": 23,
+      "trendingScore": 30,
+      "source": "huggingface"
+    },
+    {
+      "id": "carbon-x-release",
+      "name": "Carbon X Release",
+      "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release",
+      "description": "Trending Hugging Face Space by HuggingFaceBio — try it live in the browser.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "huggingface"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-23",
+      "popularity": 23,
+      "trendingScore": 22,
+      "source": "huggingface"
+    },
+    {
+      "id": "ai-paper-system",
+      "name": "ai-paper-system",
+      "url": "https://www.openlun.com",
+      "description": "AI论文系统 · AI论文生成、AI论文写作，一键论文生成，降AIGC、降重、答辩PPT · OEM白标招商加盟",
+      "category": "Search & Research",
+      "tags": [
+        "github"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-10-23",
+      "popularity": 21,
+      "trendingScore": 14,
+      "source": "github"
+    },
+    {
+      "id": "corgi-a-helpful-agent-terminal-multiplexer",
+      "name": "Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-24",
+      "popularity": 41,
+      "trendingScore": 87,
+      "source": "hackernews"
+    },
+    {
+      "id": "we-had-ai-write-a-wiki-from-45k-enron-emails-every-fact-cit",
+      "name": "We had AI write a wiki from 45k Enron emails, every fact cit",
+      "url": "https://www.thisandthat.chat/enron/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Writing & Content",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-24",
+      "popularity": 35,
+      "trendingScore": 63,
+      "source": "hackernews"
+    },
+    {
+      "id": "agent-usage-guard",
+      "name": "agent-usage-guard",
+      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "description": "A Claude Code mod to protect your usage window.",
+      "category": "Coding & Development",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-10-24",
+      "popularity": 26,
+      "trendingScore": 27,
+      "source": "hackernews"
+    },
+    {
       "id": "agent-qa",
-      "name": "Agent QA",
+      "name": "agent-qa",
       "url": "https://github.com/vostride/agent-qa",
-      "description": "Source-available CLI and MCP server for natural-language web and mobile regression tests with run memory; bring your own model, and provider charges may apply.",
+      "description": "Self-improving natural-language web, Android and iOS QA with memidex memory, a CLI, dashboard and MCP tools. FSL-1.1-ALv2; free for permitted use, with configured-provider costs separate.",
       "category": "Coding & Development",
       "tags": [
         "qa",
