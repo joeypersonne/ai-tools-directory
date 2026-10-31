@@ -10154,6 +10154,24 @@
       "popularity": 21,
       "trendingScore": 7,
       "source": "github"
+    },
+    {
+      "id": "agent-qa",
+      "name": "agent-qa",
+      "url": "https://github.com/vostride/agent-qa",
+      "description": "Self-improving natural-language web, Android and iOS QA with memidex memory, a CLI, dashboard and MCP tools. FSL-1.1-ALv2; free for permitted use, with configured-provider costs separate.",
+      "category": "Coding & Development",
+      "tags": [
+        "qa",
+        "testing",
+        "browser-automation",
+        "mcp"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-08-16",
+      "popularity": 0,
+      "trendingScore": 0,
+      "source": "manual"
     }
   ]
 }
