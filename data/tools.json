@@ -10949,6 +10949,24 @@
       "popularity": 21,
       "trendingScore": 6,
       "source": "github"
+    },
+    {
+      "id": "agent-qa",
+      "name": "agent-qa",
+      "url": "https://vostride.com",
+      "description": "Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement and step/screenshot evidence. Free permitted local use under FSL-1.1-ALv2, which restricts competing commercial use; model/device costs are separate.",
+      "category": "Coding & Development",
+      "tags": [
+        "qa",
+        "testing",
+        "browser-automation",
+        "mcp"
+      ],
+      "pricing": "free",
+      "dateAdded": "2026-08-16",
+      "popularity": 0,
+      "trendingScore": 0,
+      "source": "manual"
     }
   ]
 }
