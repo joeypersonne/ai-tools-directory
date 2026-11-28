@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-27T16:27:35+00:00",
+    "lastUpdated": "2026-11-28T15:20:06+00:00",
     "version": 1
   },
   "tools": [
@@ -2367,7 +2367,7 @@
       "pricing": "free",
       "dateAdded": "2026-07-05",
       "popularity": 37,
-      "trendingScore": 32,
+      "trendingScore": 27,
       "source": "huggingface"
     },
     {
@@ -5157,7 +5157,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-04",
       "popularity": 23,
-      "trendingScore": 63,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -5427,7 +5427,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-10",
       "popularity": 29,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "huggingface"
     },
     {
@@ -5892,7 +5892,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-16",
       "popularity": 23,
-      "trendingScore": 5,
+      "trendingScore": 4,
       "source": "huggingface"
     },
     {
@@ -6057,7 +6057,7 @@
       "pricing": "free",
       "dateAdded": "2026-08-18",
       "popularity": 22,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "source": "huggingface"
     },
     {
@@ -6852,7 +6852,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-02",
       "popularity": 25,
-      "trendingScore": 45,
+      "trendingScore": 38,
       "source": "huggingface"
     },
     {
@@ -7662,7 +7662,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-16",
       "popularity": 22,
-      "trendingScore": 22,
+      "trendingScore": 18,
       "source": "huggingface"
     },
     {
@@ -7722,7 +7722,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-17",
       "popularity": 24,
-      "trendingScore": 12,
+      "trendingScore": 10,
       "source": "huggingface"
     },
     {
@@ -7872,7 +7872,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-20",
       "popularity": 23,
-      "trendingScore": 31,
+      "trendingScore": 32,
       "source": "github"
     },
     {
@@ -8007,7 +8007,7 @@
       "pricing": "free",
       "dateAdded": "2026-09-22",
       "popularity": 29,
-      "trendingScore": 27,
+      "trendingScore": 22,
       "source": "huggingface"
     },
     {
@@ -8202,7 +8202,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-09-25",
       "popularity": 31,
-      "trendingScore": 25,
+      "trendingScore": 21,
       "source": "hackernews"
     },
     {
@@ -9087,7 +9087,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-12",
       "popularity": 23,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "github"
     },
     {
@@ -9147,7 +9147,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-13",
       "popularity": 22,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "github"
     },
     {
@@ -9357,7 +9357,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-15",
       "popularity": 23,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "github"
     },
     {
@@ -9582,7 +9582,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-19",
       "popularity": 32,
-      "trendingScore": 38,
+      "trendingScore": 32,
       "source": "huggingface"
     },
     {
@@ -9927,7 +9927,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-26",
       "popularity": 22,
-      "trendingScore": 13,
+      "trendingScore": 11,
       "source": "github"
     },
     {
@@ -9972,7 +9972,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-26",
       "popularity": 22,
-      "trendingScore": 11,
+      "trendingScore": 9,
       "source": "github"
     },
     {
@@ -10047,7 +10047,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-28",
       "popularity": 23,
-      "trendingScore": 27,
+      "trendingScore": 22,
       "source": "huggingface"
     },
     {
@@ -10077,7 +10077,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-28",
       "popularity": 22,
-      "trendingScore": 5,
+      "trendingScore": 4,
       "source": "github"
     },
     {
@@ -10197,7 +10197,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-31",
       "popularity": 25,
-      "trendingScore": 10,
+      "trendingScore": 8,
       "source": "huggingface"
     },
     {
@@ -10227,7 +10227,7 @@
       "pricing": "free",
       "dateAdded": "2026-10-31",
       "popularity": 22,
-      "trendingScore": 18,
+      "trendingScore": 15,
       "source": "huggingface"
     },
     {
@@ -10257,7 +10257,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-01",
       "popularity": 25,
-      "trendingScore": 37,
+      "trendingScore": 31,
       "source": "github"
     },
     {
@@ -10302,7 +10302,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-01",
       "popularity": 22,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "github"
     },
     {
@@ -10557,7 +10557,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-05",
       "popularity": 22,
-      "trendingScore": 13,
+      "trendingScore": 11,
       "source": "huggingface"
     },
     {
@@ -10602,7 +10602,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-06",
       "popularity": 45,
-      "trendingScore": 4,
+      "trendingScore": 3,
       "source": "hackernews"
     },
     {
@@ -10617,7 +10617,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-06",
       "popularity": 42,
-      "trendingScore": 5,
+      "trendingScore": 4,
       "source": "hackernews"
     },
     {
@@ -10647,7 +10647,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-06",
       "popularity": 37,
-      "trendingScore": 4,
+      "trendingScore": 3,
       "source": "huggingface"
     },
     {
@@ -10692,7 +10692,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-07",
       "popularity": 30,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "hackernews"
     },
     {
@@ -10722,7 +10722,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-07",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -10752,7 +10752,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-07",
       "popularity": 21,
-      "trendingScore": 2,
+      "trendingScore": 1,
       "source": "github"
     },
     {
@@ -10767,7 +10767,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-08",
       "popularity": 37,
-      "trendingScore": 8,
+      "trendingScore": 6,
       "source": "hackernews"
     },
     {
@@ -10782,7 +10782,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-09",
       "popularity": 23,
-      "trendingScore": 9,
+      "trendingScore": 7,
       "source": "github"
     },
     {
@@ -10812,7 +10812,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-10",
       "popularity": 44,
-      "trendingScore": 14,
+      "trendingScore": 11,
       "source": "hackernews"
     },
     {
@@ -10827,7 +10827,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-10",
       "popularity": 37,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "huggingface"
     },
     {
@@ -10842,7 +10842,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-10",
       "popularity": 37,
-      "trendingScore": 12,
+      "trendingScore": 10,
       "source": "huggingface"
     },
     {
@@ -10887,7 +10887,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-11",
       "popularity": 45,
-      "trendingScore": 17,
+      "trendingScore": 14,
       "source": "hackernews"
     },
     {
@@ -10902,7 +10902,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-11",
       "popularity": 23,
-      "trendingScore": 5,
+      "trendingScore": 4,
       "source": "huggingface"
     },
     {
@@ -10962,7 +10962,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-12",
       "popularity": 40,
-      "trendingScore": 18,
+      "trendingScore": 15,
       "source": "hackernews"
     },
     {
@@ -10977,7 +10977,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-12",
       "popularity": 28,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "huggingface"
     },
     {
@@ -10992,7 +10992,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-12",
       "popularity": 24,
-      "trendingScore": 6,
+      "trendingScore": 5,
       "source": "huggingface"
     },
     {
@@ -11007,7 +11007,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-13",
       "popularity": 29,
-      "trendingScore": 8,
+      "trendingScore": 6,
       "source": "hackernews"
     },
     {
@@ -11022,7 +11022,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-13",
       "popularity": 23,
-      "trendingScore": 3,
+      "trendingScore": 2,
       "source": "huggingface"
     },
     {
@@ -11037,7 +11037,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-13",
       "popularity": 22,
-      "trendingScore": 71,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -11052,7 +11052,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-13",
       "popularity": 21,
-      "trendingScore": 21,
+      "trendingScore": 17,
       "source": "github"
     },
     {
@@ -11082,7 +11082,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-14",
       "popularity": 23,
-      "trendingScore": 4,
+      "trendingScore": 3,
       "source": "huggingface"
     },
     {
@@ -11187,7 +11187,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-14",
       "popularity": 22,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "huggingface"
     },
     {
@@ -11202,7 +11202,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-15",
       "popularity": 45,
-      "trendingScore": 30,
+      "trendingScore": 25,
       "source": "hackernews"
     },
     {
@@ -11217,7 +11217,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -11232,7 +11232,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -11247,7 +11247,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -11262,7 +11262,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 19,
       "source": "github"
     },
     {
@@ -11277,7 +11277,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 19,
+      "trendingScore": 21,
       "source": "github"
     },
     {
@@ -11292,7 +11292,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-15",
       "popularity": 26,
-      "trendingScore": 1,
+      "trendingScore": 0,
       "source": "github"
     },
     {
@@ -11307,7 +11307,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-16",
       "popularity": 43,
-      "trendingScore": 61,
+      "trendingScore": 51,
       "source": "github"
     },
     {
@@ -11322,7 +11322,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-16",
       "popularity": 31,
-      "trendingScore": 17,
+      "trendingScore": 14,
       "source": "hackernews"
     },
     {
@@ -11337,7 +11337,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-16",
       "popularity": 28,
-      "trendingScore": 23,
+      "trendingScore": 19,
       "source": "hackernews"
     },
     {
@@ -11442,7 +11442,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-18",
       "popularity": 33,
-      "trendingScore": 29,
+      "trendingScore": 24,
       "source": "hackernews"
     },
     {
@@ -11457,7 +11457,7 @@
       "pricing": "unknown",
       "dateAdded": "2026-11-18",
       "popularity": 26,
-      "trendingScore": 15,
+      "trendingScore": 12,
       "source": "hackernews"
     },
     {
@@ -11472,7 +11472,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-18",
       "popularity": 24,
-      "trendingScore": 31,
+      "trendingScore": 26,
       "source": "github"
     },
     {
@@ -11487,7 +11487,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-18",
       "popularity": 23,
-      "trendingScore": 30,
+      "trendingScore": 25,
       "source": "huggingface"
     },
     {
@@ -11502,7 +11502,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-18",
       "popularity": 22,
-      "trendingScore": 30,
+      "trendingScore": 25,
       "source": "huggingface"
     },
     {
@@ -11517,7 +11517,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-18",
       "popularity": 22,
-      "trendingScore": 18,
+      "trendingScore": 15,
       "source": "huggingface"
     },
     {
@@ -11532,7 +11532,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-19",
       "popularity": 35,
-      "trendingScore": 45,
+      "trendingScore": 38,
       "source": "huggingface"
     },
     {
@@ -11547,7 +11547,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-19",
       "popularity": 23,
-      "trendingScore": 71,
+      "trendingScore": 75,
       "source": "huggingface"
     },
     {
@@ -11562,7 +11562,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-19",
       "popularity": 22,
-      "trendingScore": 9,
+      "trendingScore": 7,
       "source": "huggingface"
     },
     {
@@ -11577,7 +11577,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-19",
       "popularity": 22,
-      "trendingScore": 38,
+      "trendingScore": 41,
       "source": "huggingface"
     },
     {
@@ -11607,7 +11607,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-20",
       "popularity": 24,
-      "trendingScore": 15,
+      "trendingScore": 12,
       "source": "huggingface"
     },
     {
@@ -11622,7 +11622,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-20",
       "popularity": 22,
-      "trendingScore": 23,
+      "trendingScore": 19,
       "source": "huggingface"
     },
     {
@@ -11667,7 +11667,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-23",
       "popularity": 29,
-      "trendingScore": 28,
+      "trendingScore": 23,
       "source": "huggingface"
     },
     {
@@ -11697,7 +11697,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-24",
       "popularity": 37,
-      "trendingScore": 42,
+      "trendingScore": 35,
       "source": "huggingface"
     },
     {
@@ -11712,7 +11712,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-24",
       "popularity": 23,
-      "trendingScore": 30,
+      "trendingScore": 35,
       "source": "huggingface"
     },
     {
@@ -11727,7 +11727,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-24",
       "popularity": 22,
-      "trendingScore": 20,
+      "trendingScore": 17,
       "source": "huggingface"
     },
     {
@@ -11742,7 +11742,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-24",
       "popularity": 22,
-      "trendingScore": 20,
+      "trendingScore": 22,
       "source": "huggingface"
     },
     {
@@ -11772,7 +11772,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-25",
       "popularity": 24,
-      "trendingScore": 11,
+      "trendingScore": 9,
       "source": "github"
     },
     {
@@ -11787,7 +11787,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-25",
       "popularity": 23,
-      "trendingScore": 26,
+      "trendingScore": 28,
       "source": "huggingface"
     },
     {
@@ -11817,7 +11817,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-26",
       "popularity": 34,
-      "trendingScore": 89,
+      "trendingScore": 96,
       "source": "github"
     },
     {
@@ -11832,7 +11832,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-26",
       "popularity": 22,
-      "trendingScore": 22,
+      "trendingScore": 23,
       "source": "huggingface"
     },
     {
@@ -11847,7 +11847,7 @@
       "pricing": "free",
       "dateAdded": "2026-11-27",
       "popularity": 24,
-      "trendingScore": 16,
+      "trendingScore": 21,
       "source": "github"
     },
     {
@@ -11862,8 +11862,23 @@
       "pricing": "free",
       "dateAdded": "2026-11-27",
       "popularity": 24,
-      "trendingScore": 16,
+      "trendingScore": 27,
       "source": "huggingface"
+    },
+    {
+      "id": "getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+      "name": "Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "description": "New AI tool launched on Hacker News.",
+      "category": "Chatbots & Assistants",
+      "tags": [
+        "hackernews"
+      ],
+      "pricing": "unknown",
+      "dateAdded": "2026-11-28",
+      "popularity": 34,
+      "trendingScore": 58,
+      "source": "hackernews"
     }
   ]
 }
